@@ -9,7 +9,7 @@ const Footer = () => {
                 <img className="mx-auto mt-4 mb-4" src="/brush-border.svg" alt="" />
             </div>
             <div className=" text-neutral-700 flex items-center justify-center space-x-10 mb-10 mt-10">
-                <a href="https://roosemwandira@gmail.com"><div className="hover:text-orange-500"><IoMailOutline size={40}/></div></a>
+                <a href="https://roosekasimba@gmail.com"><div className="hover:text-orange-500"><IoMailOutline size={40}/></div></a>
                 <a href="https://twitter.com/DevRoose"><div className="hover:text-orange-500"><IoLogoTwitter size={40}/></div></a>
                 <a href="https://www.instagram.com/terrifikgamestudios/"><div className="hover:text-orange-500"><IoLogoInstagram size={40}/></div></a>
                 <a href="https://www.linkedin.com/in/roosevelt-mwandira-722854247"><div className="hover:text-orange-500"><IoLogoLinkedin size={40}/></div></a>

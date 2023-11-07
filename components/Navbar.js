@@ -30,7 +30,7 @@ const Navbar = () => {
             { !isMobile ?(
             <div className="h-16 w-full justify-between flex items-center border-b border-b-gray-800">
                 <div className="w-1/5">
-                    <a className="hover:font-bold hover:text-orange-500" href="mailto:roosemwandira@gmail.com?subject=Hello Roose">roosemwandira@gmail.com</a>
+                    <a className="hover:font-bold hover:text-orange-500" href="mailto:roosekasimba@gmail.com?subject=Hello Roose">roosekasimba@gmail.com</a>
                     </div>
                 <div className="flex justify-center w-3/5"><h1 className="text-2xl font-bold">Roosevelt<span className="accent text-5xl">.</span></h1></div>
                 <div className="flex space-x-4 w-1/5 justify-end">
@@ -40,7 +40,7 @@ const Navbar = () => {
             ):(
                 <div className="h-16 w-full justify-between flex items-center border-b border-b-gray-800">
                 <div className="">
-                    <a href="mailto:roosemwandira@gmail.com?subject=Hello Roose"><IoMailOutline size={28}/></a>
+                    <a href="mailto:roosekasimba@gmail.com?subject=Hello Roose"><IoMailOutline size={28}/></a>
                     </div>
                 <div className="place-self-center"><h1 className="md:text-2xl text-4xl font-bold">R<span className="accent text-5xl">.</span></h1></div>
                 <div className="flex space-x-4">

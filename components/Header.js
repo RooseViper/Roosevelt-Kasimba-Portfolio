@@ -32,7 +32,7 @@ const Header = () => {
                 animate={{ x: 0, opacity: 1 }}
                 transition={{ delay: 1, type: 'tween', duration: .75 }} className="flex flex-col w-full mt-8 md:m-0 md:text-left">
                 <h4 className="uppercase tracking-widest font-bold">About Me</h4>
-                <ReadMore text="My name is Roosevelt Mwandira and I am a highly passionate Game Developer. My passion for game development allows me to extend my thoughts into reality. The best part about this is that i get to share these thoughts as immersive experiences that can be experienced by anyone. My love for immersion is also one of the reasons I really enjoy developing Horror games as I love how easier it is for players to get immersed in a Horror setting.">
+                <ReadMore text="My name is Roosevelt Mwandira and I am a highly passionate Game Developer. My passion for game development allows me to extend my thoughts into reality. The best part about this is that I get to share these thoughts as immersive experiences that can be experienced by anyone. My love for immersion is also one of the reasons I really enjoy developing Horror games as I love how easier it is for players to get immersed in a Horror setting.">
                 </ReadMore>
             </motion.div>}
             </ScrollTrigger>
@@ -45,12 +45,25 @@ const Header = () => {
                 animate={{ x: 0, opacity: 1 }}
                 transition={{ delay: 1, type: 'tween', duration: .75 }} className="flex flex-col w-full mt-8 md:m-0 md:text-right">
                 <h4 className="uppercase tracking-widest md:text-right font-bold">Skills</h4>
-                <p>• Unity  	• C#  	
-                                • Java  		• JavaScript	• Git
-                                • Adobe Photoshop 		• Docker
-                                • ASP.NET Core 		• Postman
-                                • 3D Modelling (Unity Pro-Builder)
-                                • FL Studio</p> 
+                <p>         
+                    <ul>
+                    <li>Unity • </li>
+                    <li>Unreal Engine • </li>
+                    <li>Phaser • </li>
+                    <li>C# • </li>
+                    <li>Java • </li>
+                    <li>JavaScript • </li>
+                    <li>Git • </li>
+                    <li>Adobe Photoshop • </li>
+                    <li>AWS • </li>
+                    <li>Docker • </li>
+                    <li>REST APIs • </li>
+                    <li>ASP.NET Core •</li>
+                    <li>Postman • </li>
+                    <li>3D Modelling (Unity Pro-Builder) • </li>
+                    <li>FL Studio • </li>
+                    </ul>
+                </p> 
             </motion.div>
         )
     }
