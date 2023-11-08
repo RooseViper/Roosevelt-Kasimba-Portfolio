@@ -42,31 +42,18 @@ const Header = () => {
     function OtherInfo() {
         return (
             <motion.div initial={{ x: '100', opacity: 0 }}
-                animate={{ x: 0, opacity: 1 }}
-                transition={{ delay: 1, type: 'tween', duration: .75 }} className="flex flex-col w-full mt-8 md:m-0 md:text-right">
+                        animate={{ x: 0, opacity: 1 }}
+                        transition={{ delay: 1, type: 'tween', duration: .75 }} className="flex flex-col w-full mt-8 md:m-0 md:text-right">
                 <h4 className="uppercase tracking-widest md:text-right font-bold">Skills</h4>
-                <p>         
-                    <ul>
-                    <li>Unity • </li>
-                    <li>Unreal Engine • </li>
-                    <li>Phaser • </li>
-                    <li>C# • </li>
-                    <li>Java • </li>
-                    <li>JavaScript • </li>
-                    <li>Git • </li>
-                    <li>Adobe Photoshop • </li>
-                    <li>AWS • </li>
-                    <li>Docker • </li>
-                    <li>REST APIs • </li>
-                    <li>ASP.NET Core •</li>
-                    <li>Postman • </li>
-                    <li>3D Modelling (Unity Pro-Builder) • </li>
-                    <li>FL Studio • </li>
-                    </ul>
-                </p> 
+                <p>• Unity  	• C#
+                    • Java  		• JavaScript	• Git
+                    • Adobe Photoshop 		• Docker
+                    • ASP.NET Core 		• Postman
+                    • 3D Modelling (Unity Pro-Builder)
+                    • FL Studio</p>
             </motion.div>
         )
-    }
+    }   
 
     return (
         <div className="w-full">
