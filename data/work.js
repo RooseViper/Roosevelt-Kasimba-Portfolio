@@ -42,7 +42,7 @@ export const projects = [
             "Players can create their own formations, select their own teams and the game has unique rules that have to be followed such as allowing the players to destroy opponent caps or destroying a barrier first before they can score. Besides having to score to win, Players can also choose to just destroy all their opponents’ caps by hitting them.\n ",
         link: "https://play.google.com/store/apps/details?id=com.KCHKNA.FingerBall",
         link_2: "",
-        anchorText: "Download Game",
+        anchorText: "Download Game(Google Play)",
         anchorText_2: "",
         date: "10 November 2022",
         images: [
@@ -66,7 +66,7 @@ export const projects = [
             "PUBLISHED"
         ],
         industry: "design industry",
-        solution: "Type here",
+        solution: "4 Days is a survival horror game that I developed for GFGStudios and published on Game Jolt as a commercial game. The game is set in a prison whereby the Player is locked inside with a blind serial killer. What makes the game unique is the enemy is completely blind and will not see the player but they hear every sound the player makes, even something as simple as walking and opening a drawer will attract the enemy. The goal of the game is for the player to find a way to escape while solving puzzles and completing objectives.",
         link: "https://gamejolt.com/games/4dayz/773263",
         link_2: "",
         anchorText: "Download Game(Game Jolt)",
@@ -80,7 +80,7 @@ export const projects = [
             "https://imgdb.net/storage/uploads/59fdd461d03a26a06cd8dfb0b779cb347154c6adaa198fd5816d35a007c598a2.jpg"
         ],
         videoLink:"https://www.youtube.com/embed/G9vWfiwZ8T4",
-        videoTitle:"Terror: Evocation II Official Trailer",
+        videoTitle:"4 Dayz Release Trailer",
     },
     {
         id: 4,
@@ -92,10 +92,10 @@ export const projects = [
             "PC"
         ],
         industry: "design industry",
-        solution: "Type here",
+        solution: "Sheria’s World is a project I did for a local game jam I participated in last year. I was a solo developer and we were given 48 hours to come up with a 2D prototype game involving a character transported to a foreign medieval universe. Additionally, the character also had to interact and converse with an NPC, buy and sell items with in-game currency and to also be able to buy and change outfits. All the expected requirements were completed in time as requested.",
         link: "https://github.com/RooseViper/Sheria-s-World",
         link_2: "",
-        anchorText: "Download Game(Game Jolt)",
+        anchorText: "Download Game(Github)",
         anchorText_2: "",
         date: "10 November 2022",
         images: [
@@ -105,7 +105,7 @@ export const projects = [
             "https://imgdb.net/storage/uploads/40e3a3b242d9cd7319deec8bdb198c350798c3f2daf9d1e7177f80b5522adaa9.png"
         ],
         videoLink:"https://www.youtube.com/embed/75rPR8_zJc4",
-        videoTitle:"Terror: Evocation II Official Trailer",
+        videoTitle:"Sheria's World video",
     },
     {
         id: 5,
@@ -118,7 +118,7 @@ export const projects = [
             "WEB GL"
         ],
         industry: "design industry",
-        solution: "Type here",
+        solution: "Confinement is a survival adventure game I developed for SuperByte studios published on Google Play and also built for Web GL. The game is set in a house whereby the player is locked in a house by a strange man. The goal is to solve puzzles while avoiding the strange man in order to successfully escape the house. This game was also covered by several YouTube channels including Vividplays channel, which is quite a massive channel. The said video can be viewed below.",
         link: "https://play.google.com/store/apps/details?id=com.SuperByteGames.Confinement",
         link_2: "",
         anchorText: "Download Game",
@@ -131,7 +131,7 @@ export const projects = [
             "https://imgdb.net/storage/uploads/9de353b2163864ba1096489c83033b858a18afc9e76f89ffa07e861505ed44f9.jpg"
         ],
         videoLink:"https://www.youtube.com/embed/nFKBKYUuN30",
-        videoTitle:"TiMMY",
+        videoTitle:"Confinement Walkthrough",
     },
     {
         id: 6,
@@ -142,7 +142,7 @@ export const projects = [
             "PC"
         ],
         industry: "design industry",
-        solution: "Type here",
+        solution: "This is a retro game with PS1 graphics. The game has gun mechanics, Inventory management and complex Ai behavior that also allows the players to do counter attacks on enemies.",
         date: "10 November 2022",
         images: [
             "https://imgdb.net/storage/uploads/e7f51b1f2feef8cfe3b98f6eb336b8bdef12ac62bed20a5427cb1b91ef1b73d3.png",
