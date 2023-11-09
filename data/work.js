@@ -6,15 +6,15 @@ export const projects = [
         title: "Terror: Evocation II",
         expertise: [
             "SURIVIVAL HORROR GAME | ",
-            "ANDROID | ",
+            "MOBILE | ",
             "PLAYSTORE | ",
             "PUBLISHED"
         ],
         industry: "design industry",
-        solution: "Terror: Evocation II is a story driven survival Horror game set in Malawi, Africa. The game has 3 large maps and another semi-large map which is explored in the final chapter of the game. The first 3 maps of the game can be explored in any order depending on how Players want to explore the story but the story will not be affected and will remain the same. As far as gameplay, the game has many features such as a trackable map, Inventory management, In-game shop, Hiding, Crafting, In-App purchases, Loading checkpoints, Perks (Different unique abilities), Combat (both melee and long-range), 5 unique enemy AIs (Each with unique behaviour and abilities) and multiple endings. The most unique aspect of this game is the Corruption system whereby the Player’s soul corrupts each time they die. Soul corruption changes the dynamic of the game as for instance, there are some enemies that will mainly hunt down the player more when their soul is less corrupt. A higher soul corruption can also have side effects such as locked slots for the perks meaning players cannot use certain abilities when their soul is corrupt. Having high soul corruption also comes with other side effects such as vision impairment and slow movement. Most importantly, the level of corruption of the soul also dictates the endings of the game as currently the game has 3 endings.",
+        solution: "Terror: Evocation II is a story driven survival Horror game set in Malawi, Africa. The game has 3 large maps and another semi-large map which is explored in the final chapter of the game. The first 3 maps of the game can be explored in any order depending on how Players want to explore the story but the story will not be affected and will remain the same. As far as gameplay, the game has many features such as a trackable map, Inventory management, In-game shop, Hiding, Crafting, In-App purchases, Loading checkpoints, Perks (Different unique abilities), Combat (both melee and long-range), 5 unique enemy AIs (Each with unique behavior and abilities) and multiple endings. The most unique aspect of this game is the Corruption system whereby the Player’s soul gets corrupted each time they die. Soul corruption changes the dynamic of the game and how enemies react to the player. For instance, there are some enemies that will mainly hunt down the player more when their soul is less corrupt. A higher soul corruption can also have side effects such as locked slots for the perks meaning players cannot use certain abilities when their soul is corrupt. Having high soul corruption also comes with other side effects such as vision impairment and slow movement. Most importantly, the level of corruption of the soul also dictates the endings of the game as currently the game has 3 endings. The game currently has a few thousand downloads and was covered by several YouTube channels.",
         link: "https://play.google.com/store/apps/details?id=com.TerrifikGameStudios.terrorevocationii",
         link_2: "",
-        anchorText: "Download Game",
+        anchorText: "Download Game(Google Play)",
         anchorText_2: "",
         date: "10 November 2022",
         images: [
@@ -58,6 +58,156 @@ export const projects = [
     },
     {
         id: 3,
+        title: "4 Dayz",
+        expertise: [
+            "SURIVIVAL HORROR GAME | ",
+            "PC | ",
+            "GAME JOLT | ",
+            "PUBLISHED"
+        ],
+        industry: "design industry",
+        solution: "Type here",
+        link: "https://gamejolt.com/games/4dayz/773263",
+        link_2: "",
+        anchorText: "Download Game(Game Jolt)",
+        anchorText_2: "",
+        date: "10 November 2022",
+        images: [
+            "https://imgdb.net/storage/uploads/30e50785430caf642c2ef64968fb6fdff6c457fd40dfe34ef16b8c6b2c90b44e.jpg",
+            "https://imgdb.net/storage/uploads/6ff0889de4ea3a488c6e8336455915820e3e70c006bc6266bb9f8e5dd6dc04bf.jpg",
+            "https://imgdb.net/storage/uploads/a7c4975b80045772d14e2860220f2169c4f20b4e5ec3916a2c927d9d882a5c63.jpg",
+            "https://imgdb.net/storage/uploads/566179c6267d4febb474e8706ce2438eedfdb7707f510d6bfbf489ae17db0364.jpg",
+            "https://imgdb.net/storage/uploads/59fdd461d03a26a06cd8dfb0b779cb347154c6adaa198fd5816d35a007c598a2.jpg"
+        ],
+        videoLink:"https://www.youtube.com/embed/G9vWfiwZ8T4",
+        videoTitle:"Terror: Evocation II Official Trailer",
+    },
+    {
+        id: 4,
+        title: "Sheria's World",
+        expertise: [
+            "2D | ",
+            "RPG | ",
+            "ADVENTURE | ",
+            "PC"
+        ],
+        industry: "design industry",
+        solution: "Type here",
+        link: "https://github.com/RooseViper/Sheria-s-World",
+        link_2: "",
+        anchorText: "Download Game(Game Jolt)",
+        anchorText_2: "",
+        date: "10 November 2022",
+        images: [
+            "https://imgdb.net/storage/uploads/07099f62f1dfd869b73e3b3507c6348a8961ab0e6ac2b8b667f1d3fed934d1c0.png",
+            "https://imgdb.net/storage/uploads/f5ab4401f9f717267a4102f3dfe22af42dce643cc2997409f4c1ec4db0eacaff.png",
+            "https://imgdb.net/storage/uploads/7b2d0dbad7562b17ee78f1d082daa6a15e299e3be8f2577f2fd2df3af51ad67d.png",
+            "https://imgdb.net/storage/uploads/40e3a3b242d9cd7319deec8bdb198c350798c3f2daf9d1e7177f80b5522adaa9.png"
+        ],
+        videoLink:"https://www.youtube.com/embed/75rPR8_zJc4",
+        videoTitle:"Terror: Evocation II Official Trailer",
+    },
+    {
+        id: 5,
+        title: "Confinement",
+        expertise: [
+            "HORROR GAME | ",
+            "PUZZLE GAME | ",
+            "PUBLISHED | ",
+            "MOBILE |",
+            "WEB GL"
+        ],
+        industry: "design industry",
+        solution: "Type here",
+        link: "https://play.google.com/store/apps/details?id=com.SuperByteGames.Confinement",
+        link_2: "",
+        anchorText: "Download Game",
+        anchorText_2: "",
+        date: "10 November 2022",
+        images: [
+            "https://imgdb.net/storage/uploads/cf6f9c57baeb87d2178fb9b12f9f5cbfc5dd84e4ccc57e7c8c59a53684b9994b.jpg",
+            "https://imgdb.net/storage/uploads/36ef283f42995a1b14c40634747f7cbae8e58ea1b34a09331d4de9bdc33312ca.jpg",
+            "https://imgdb.net/storage/uploads/9c5e6d479232e16766645b8e672cebb6c8a51f85b4b834a4b60955bbc2736b00.png",
+            "https://imgdb.net/storage/uploads/9de353b2163864ba1096489c83033b858a18afc9e76f89ffa07e861505ed44f9.jpg"
+        ],
+        videoLink:"https://www.youtube.com/embed/nFKBKYUuN30",
+        videoTitle:"TiMMY",
+    },
+    {
+        id: 6,
+        title: "Zomboid",
+        expertise: [
+            "HORROR GAME | ",
+            "RETRO | ",
+            "PC"
+        ],
+        industry: "design industry",
+        solution: "Type here",
+        date: "10 November 2022",
+        images: [
+            "https://imgdb.net/storage/uploads/e7f51b1f2feef8cfe3b98f6eb336b8bdef12ac62bed20a5427cb1b91ef1b73d3.png",
+            "https://imgdb.net/storage/uploads/ed8be7f33fbac069495bf90512cc0db0ecb5576a42dda1d579b0f7e948e67bd2.png",
+            "https://imgdb.net/storage/uploads/fbb21d4938170dc3cc675e2553420b23aeaa06b98d55324612aa183bcca7d059.png",
+            "https://imgdb.net/storage/uploads/f5ac8c1020e41bb3f260ee60601d836c6f1741aaf42af7f5729f26e3313cde00.png",
+            "https://imgdb.net/storage/uploads/2b94c47a0d168960ad527960b5776cce5ecae0498b42e1180318541b2cf4cf24.png"
+        ],
+        videoLink:"https://www.youtube.com/embed/OKY9hDiIXTs",
+        videoTitle:"Zomboid",
+    },
+    {
+        id: 7,
+        title: "Run or Die",
+        expertise: [
+            "CASUAL GAME | ",
+            "HORROR GAME | ",
+            "ENDLESS RUNNER | ",
+            "ANDROID"
+        ],
+        industry: "design industry",
+        solution: "Run or Die is a Casual endless runner whereby Players have to swipe left or right to dodge monsters and cars as they come from the front of them. The game has Unity Ads and In-App purchases. There are plans to add new characters, enemies and new skins in future updates.",
+        link: "",
+        link_2: "",
+        anchorText: "",
+        anchorText_2: "",
+        date: "10 November 2022",
+        images: [
+            "https://imgdb.net/storage/uploads/41b875f20c3046ac3655377eb1fc6d0cba1d6ee022a90de2b89e5b8c697439a7.png",
+            "https://imgdb.net/storage/uploads/f8c757d9e5151660fd459fc36f0b5e8ec697cf20dc7996a5973b36a2772be5a8.png",
+            "https://imgdb.net/storage/uploads/45a0aa8b1857a86aae76544598499654f6eaab6a39d21f27eda7d1e60467a2c3.png",
+            "https://imgdb.net/storage/uploads/72a5b78558520ef81a4033c15614f30f3282882e0e27d6e76d4d2b0660bb5dac.png",
+            "https://imgdb.net/storage/uploads/44ea37233a1f75bdf4a8b5d2ad0cf46acab859bed69ec0ace299a3d1a6214d86.png"
+        ],
+        videoLink:"https://www.youtube.com/embed/KQhYcdm4kr0",
+        videoTitle:"From the Darkness",
+    },
+    {
+        id: 8,
+        title: "They come from the lights",
+        expertise: [
+            "HORROR GAME | ",
+            "PUZZLE GAME | ",
+            "PUBLISHED | ",
+            "MOBILE |",
+            "WEB GL |"
+        ],
+        industry: "design industry",
+        solution: "Type here",
+        link: "https://play.google.com/store/apps/details?id=com.SuperByteGames.Confinement",
+        link_2: "",
+        anchorText: "",
+        anchorText_2: "",
+        date: "10 November 2022",
+        images: [
+            "https://imgdb.net/storage/uploads/35308252d3366bc6d5eca1fe65287cbcdf52acb494614fa818128838e34bfb62.jpg",
+            "https://imgdb.net/storage/uploads/1bab1e75aefe2fed035622b628b1ca4ce0bbd396f1cbcb777ce4e559f3ccba3f.jpg",
+            "https://imgdb.net/storage/uploads/cc5cce11bd9899c169b4973ae337d5df5d37e24f90ce0f6143216fb789d63fc2.jpg",
+            "https://imgdb.net/storage/uploads/0a9e31b1fe0c10ec0ecb645295b3f35af892e62acbe0043d4276494a451e1998.jpg",
+            "https://imgdb.net/storage/uploads/bab29ec00b13eda3fd519109998bc2d0356b7014bc798c034b6694da6c55f1e8.jpg"
+        ],
+        videoLink:"https://www.youtube.com/embed/crHGppJk5GQ",
+        videoTitle:"TiMMY",
+    }, {
+        id: 9,
         title: "From the Darkness",
         expertise: [
             "HORROR GAME | ",
@@ -84,54 +234,7 @@ export const projects = [
         videoTitle:"From the Darkness",
     },
     {
-        id: 4,
-        title: "Run or Die",
-        expertise: [
-            "CASUAL GAME | ",
-            "HORROR GAME | ",
-            "ENDLESS RUNNER | ",
-            "ANDROID"
-        ],
-        industry: "design industry",
-        solution: "Run or Die is a Casual endless runner whereby Players have to swipe left or right to dodge monsters and cars as they come from the front of them. The game has Unity Ads and In-App purchases. There are plans to add new characters, enemies and new skins in future updates.",
-        link: "",
-        link_2: "",
-        anchorText: "",
-        anchorText_2: "",
-        date: "10 November 2022",
-        images: [
-            "https://imgdb.net/storage/uploads/41b875f20c3046ac3655377eb1fc6d0cba1d6ee022a90de2b89e5b8c697439a7.png",
-            "https://imgdb.net/storage/uploads/f8c757d9e5151660fd459fc36f0b5e8ec697cf20dc7996a5973b36a2772be5a8.png",
-            "https://imgdb.net/storage/uploads/45a0aa8b1857a86aae76544598499654f6eaab6a39d21f27eda7d1e60467a2c3.png",
-            "https://imgdb.net/storage/uploads/72a5b78558520ef81a4033c15614f30f3282882e0e27d6e76d4d2b0660bb5dac.png",
-            "https://imgdb.net/storage/uploads/44ea37233a1f75bdf4a8b5d2ad0cf46acab859bed69ec0ace299a3d1a6214d86.png"
-        ],
-        videoLink:"https://www.youtube.com/embed/KQhYcdm4kr0",
-        videoTitle:"From the Darkness",
-    },
-    {
-        id: 5,
-        title: "Zomboid",
-        expertise: [
-            "HORROR GAME | ",
-            "RETRO | ",
-            "PC"
-        ],
-        industry: "design industry",
-        solution: "Type here",
-        date: "10 November 2022",
-        images: [
-            "https://imgdb.net/storage/uploads/e7f51b1f2feef8cfe3b98f6eb336b8bdef12ac62bed20a5427cb1b91ef1b73d3.png",
-            "https://imgdb.net/storage/uploads/ed8be7f33fbac069495bf90512cc0db0ecb5576a42dda1d579b0f7e948e67bd2.png",
-            "https://imgdb.net/storage/uploads/fbb21d4938170dc3cc675e2553420b23aeaa06b98d55324612aa183bcca7d059.png",
-            "https://imgdb.net/storage/uploads/f5ac8c1020e41bb3f260ee60601d836c6f1741aaf42af7f5729f26e3313cde00.png",
-            "https://imgdb.net/storage/uploads/2b94c47a0d168960ad527960b5776cce5ecae0498b42e1180318541b2cf4cf24.png"
-        ],
-        videoLink:"https://www.youtube.com/embed/OKY9hDiIXTs",
-        videoTitle:"Zomboid",
-    },
-    {
-        id: 6,
+        id: 10,
         title: "TiMMY",
         expertise: [
             "HORROR GAME | ",
@@ -148,13 +251,14 @@ export const projects = [
         images: [
             "https://imgdb.net/storage/uploads/09820ecdf96195b87a1c0752be8bb254edcd9006b22267c8f0ca7f4a83ab5b92.png",
             "https://imgdb.net/storage/uploads/ba7174bfa39156f2700789608982b5dde79d7e6424a23318f858a31cdb6ae3ce.png",
-            "https://imgdb.net/storage/uploads/b96b30dbdfde5f3405e6d4974b5d343004c85b9c5a6169ce9ed3130c0295f5ad.png"
+            "https://imgdb.net/storage/uploads/b96b30dbdfde5f3405e6d4974b5d343004c85b9c5a6169ce9ed3130c0295f5ad.png",
+            "https://imgdb.net/storage/uploads/03a481c4f41dd014b97c63952e29b1cc640032f64aee0dde97c3232f31c32950.jpg"
         ],
         videoLink:"https://www.youtube.com/embed/nRKAwrnsDSk",
         videoTitle:"TiMMY",
     },
     {
-        id: 7,
+        id: 11,
         title: "Basement of Terror",
         expertise: [
             "HORROR GAME | ",

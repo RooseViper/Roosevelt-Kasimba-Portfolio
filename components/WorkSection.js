@@ -36,7 +36,7 @@ const WorkSection = (props) => {
                     {console.log(videoLink)}
                     </div>
                     {onScreen && <motion.div initial={{ y: '100', opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 1, type: 'tween', duration: 1 }} className="w-full mt-8">
-                        <img src={selectedImg} alt="Selected" className="selected-img-box object-cover" />
+                        <img src={selectedImg} alt="Selected" className="selected-img-box object-cover" style = {{height:'100%' }}/>
                         <div className="img-box md:flex md:justify-between flex justify-between mt-4">
                             {images.map((image, index) => (
                                 <img onClick={() => setSelectedImg(image)} style={{ border: selectedImg === image ? "2px solid orange" : "" }} className="object-cover md:w-32 md:h-32 w-28 h-28 mb-2" key={index} src={image} alt="project-image" />

@@ -58,6 +58,7 @@ const Header = () => {
                     <p>• Git •</p>
                     <p>• AWS •</p>
                     <p>• REST APIs •</p>
+                    <p>• CI/CD •</p>
                     <p>• Adobe Photoshop •</p>
                     <p>• Docker •</p>
                     <p>• ASP.NET Core •</p>

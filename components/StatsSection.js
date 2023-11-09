@@ -25,11 +25,11 @@ const StatsSection = () => {
                     <p>Years of Experience</p>
                 </div>
                 <div className="text-center">
-                    {counterOn && <h2 className="accent text-5xl font-bold"><CountUp start={0} end={8} duration={1.5} delay={0} />+</h2>}
+                    {counterOn && <h2 className="accent text-5xl font-bold"><CountUp start={0} end={15} duration={1.5} delay={0} />+</h2>}
                     <p>Games Completed</p>
                 </div>
                 <div className="text-center">
-                    {counterOn && <h2 className="accent text-5xl font-bold"><CountUp start={0} end={3} duration={1} delay={0} /></h2>}
+                    {counterOn && <h2 className="accent text-5xl font-bold"><CountUp start={0} end={5} duration={1} delay={0} /></h2>}
                     <p>Games Shipped</p>
                 </div>
             </ScrollTrigger>
