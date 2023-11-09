@@ -53,7 +53,6 @@ const Header = () => {
                     <p>• Unreal Engine •</p>
                     <p>• Phaser •</p>
                     <p>• C# •</p>
-                    <p>• Java •</p>
                     <p>• JavaScript •</p>
                     <p>• Git •</p>
                     <p>• AWS •</p>
