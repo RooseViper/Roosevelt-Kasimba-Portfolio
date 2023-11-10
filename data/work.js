@@ -121,7 +121,7 @@ export const projects = [
         solution: "Confinement is a survival adventure game I developed for SuperByte studios published on Google Play and also built for Web GL. The game is set in a house whereby the player is locked in a house by a strange man. The goal is to solve puzzles while avoiding the strange man in order to successfully escape the house. This game was also covered by several YouTube channels including Vividplays channel, which is quite a massive channel. The said video can be viewed below.",
         link: "https://play.google.com/store/apps/details?id=com.SuperByteGames.Confinement",
         link_2: "",
-        anchorText: "Download Game",
+        anchorText: "Download Game(Google Play)",
         anchorText_2: "",
         date: "10 November 2022",
         images: [
@@ -142,7 +142,7 @@ export const projects = [
             "PC"
         ],
         industry: "design industry",
-        solution: "This is a retro game with PS1 graphics. The game has gun mechanics, Inventory management and complex Ai behavior that also allows the players to do counter attacks on enemies.",
+        solution: "Zomboid is a retro game with PS1 graphics. I was hired as a Unity Developer to develop a prototype for a client who is a 3D Artist and animator. I was hired to develop the prototype from ground up and to add different mechanics such as the Player Controller, the gun mechanics, In-game map, Inventory management and complex Ai behavior that also allows the players to do counter attacks on enemies.",
         date: "10 November 2022",
         images: [
             "https://imgdb.net/storage/uploads/e7f51b1f2feef8cfe3b98f6eb336b8bdef12ac62bed20a5427cb1b91ef1b73d3.png",
@@ -164,7 +164,7 @@ export const projects = [
             "ANDROID"
         ],
         industry: "design industry",
-        solution: "Run or Die is a Casual endless runner whereby Players have to swipe left or right to dodge monsters and cars as they come from the front of them. The game has Unity Ads and In-App purchases. There are plans to add new characters, enemies and new skins in future updates.",
+        solution: "Run or Die is a Casual endless runner whereby Players have to swipe left or right to dodge monsters and cars as they come from the front of them. The game also has Unity Ads and In-App purchases.",
         link: "",
         link_2: "",
         anchorText: "",
@@ -191,7 +191,7 @@ export const projects = [
             "WEB GL |"
         ],
         industry: "design industry",
-        solution: "Type here",
+        solution: "They come from the lights is a first-person horror game that has the player wake up in their Apartment only to realize the entire city has been completely overrun by monsters. The only way for the Players to defend themselves is to use a UV flashlight which can chase away the monsters for a short while.",
         link: "https://play.google.com/store/apps/details?id=com.SuperByteGames.Confinement",
         link_2: "",
         anchorText: "",
@@ -245,7 +245,7 @@ export const projects = [
         solution: "TiMMY is a puzzle horror game whereby Players are locked inside a warehouse with a serial killer inside. To escape, Players have to find a key and solve 2 puzzles that the serial killer has setup up in the warehouse.",
         link: "https://drive.google.com/file/d/114wWLDE2-lAVdQ3z1_D8iGoSiciOt5O_/view?usp=share_link",
         link_2: "",
-        anchorText: "Download Game",
+        anchorText: "Download Game(Google Drive)",
         anchorText_2: "",
         date: "10 November 2022",
         images: [
@@ -269,7 +269,7 @@ export const projects = [
         solution: " Basement of Terror is about a couple that locks a prisoner in their basement so they can pick the perfect candidate for a ritual. You play as the prisoner and you have to find a way to escape the Basement which has different rooms, corridors and puzzles. The objective of the game is to solve puzzles in the basement and each puzzle will lead to a special key of which the player will place on locked door. However, in this basement is also a Ghoulish like creature that has a very strong line of sight and will hear everything the player does from dropping objects to opening doors.",
         link: "https://drive.google.com/file/d/14434wj6Q3E26w-k6ZMSZgdycJ1M39W4y/view?usp=share_link",
         link_2: "",
-        anchorText: "Download Game",
+        anchorText: "Download Game(Google Drive)",
         anchorText_2: "",
         date: "10 November 2022",
         images: [
