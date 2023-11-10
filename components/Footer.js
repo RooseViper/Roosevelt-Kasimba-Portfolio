@@ -1,4 +1,4 @@
-    import {IoMailOutline, IoLogoTwitter, IoLogoInstagram, IoLogoLinkedin, IoLogoFacebook} from "react-icons/io5"
+    import {IoMailOutline, IoLogoTwitter, IoLogoInstagram, IoLogoLinkedin, IoLogoGithub} from "react-icons/io5"
 const Footer = () => {
     return (
         <div className="mt-12 mb-12">
@@ -12,8 +12,8 @@ const Footer = () => {
                 <a href="https://roosekasimba@gmail.com"><div className="hover:text-orange-500"><IoMailOutline size={40}/></div></a>
                 <a href="https://twitter.com/DevRoose"><div className="hover:text-orange-500"><IoLogoTwitter size={40}/></div></a>
                 <a href="https://www.instagram.com/terrifikgamestudios/"><div className="hover:text-orange-500"><IoLogoInstagram size={40}/></div></a>
-                <a href="https://www.linkedin.com/in/roosevelt-mwandira-722854247"><div className="hover:text-orange-500"><IoLogoLinkedin size={40}/></div></a>
-                <a href="https://www.facebook.com/luz.jayr"><div className="hover:text-orange-500"><IoLogoFacebook size={40}/></div></a>
+                <a href="https://www.linkedin.com/in/roosevelt-kasimba-mwandira-1481a028b"><div className="hover:text-orange-500"><IoLogoLinkedin size={40}/></div></a>
+                <a href="https://github.com/RooseViper"><div className="hover:text-orange-500"><IoLogoGithub size={40}/></div></a>
             </div>
             <p className="text-center text-neutral-700">Roosevelt Mwandira &copy; 2022 All Rights Reserved</p>
         </div>
