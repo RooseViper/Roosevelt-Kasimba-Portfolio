@@ -55,36 +55,10 @@ const WorkSection = (props) => {
         return (
             <div className="w-full mt-8">
                 {projects.map((project, index) => (
-                    // <div key={index}>
-                    //     <div className="w-full md:flex mt-8">
-                    //         <div className="md:w-2/5 items-center space-x-2">
-                    //             <h1 className="text-3xl font-bold"><b className="accent">{project.id}.</b>{project.title}</h1>
-                    //             <div className="flex space-x-2 accent">
-                    //                 {project.expertise.map((expertise, index) => (
-                    //                     <div className="uppercase text-sm" key={index}><span>{expertise}</span></div>
-                    //                 ))}
-                    //             </div>
-                    //         </div>
-                    //         <div className="md:w-3/5">
-                    //             <p>{project.solution}</p>
-                    //         </div>
-                    //     </div>
-                    //     <div className="w-full mt-8">
-                    //         <img src={selectedImg} alt="Selected" className="selected-img-box object-cover" />
-                    //         <div className="img-box mt-4">
-                    //             {project.images.map((image, index) => (
-                    //                 <img onClick={( )=> setSelectedImg(image)} style={{ border: selectedImg === image ? "2px solid orange" : "" }} className="object-cover md:w-32 md:h-32 w-28 h-28 mb-2" key={index} src={image} alt="project-image" />
-                    //             ))
-                    //             }
-                    //         </div>
-                    //     </div>
-                    // </div>
                     <div key={index}>
                         <ProjectLayout title={project.title} id={project.id} expertise={project.expertise} anchorText={project.anchorText} anchorText_2={project.anchorText_2} solution={project.solution} link={project.link} link_2={project.link_2} An images={project.images} videoLink={project.videoLink} videoTitle={project.videoTitle}/>
 
                     </div>
-
-
                 ))}
             </div>
         )
