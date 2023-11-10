@@ -66,7 +66,7 @@ export const projects = [
             "PUBLISHED"
         ],
         industry: "design industry",
-        solution: "4 Days is a survival horror game that I developed for GFGStudios and published on Game Jolt as a commercial game. The game is set in a prison whereby the Player is locked inside with a blind serial killer. What makes the game unique is the enemy is completely blind and will not see the player but they hear every sound the player makes, even something as simple as walking and opening a drawer will attract the enemy. The goal of the game is for the player to find a way to escape while solving puzzles and completing objectives.",
+        solution: "4 Days is a survival horror game that I developed for GFGStudios and was published on Game Jolt as a commercial game. The game is set in a prison whereby the Player is locked inside with a blind serial killer. What makes the game unique is the enemy is completely blind and will not see the player but they hear every sound the player makes, even something as simple as walking and opening a drawer will attract the enemy. The goal of the game is for the player to find a way to escape while solving puzzles and completing objectives.",
         link: "https://gamejolt.com/games/4dayz/773263",
         link_2: "",
         anchorText: "Download Game(Game Jolt)",
@@ -118,7 +118,7 @@ export const projects = [
             "WEB GL"
         ],
         industry: "design industry",
-        solution: "Confinement is a survival adventure game I developed for SuperByte studios published on Google Play and also built for Web GL. The game is set in a house whereby the player is locked in a house by a strange man. The goal is to solve puzzles while avoiding the strange man in order to successfully escape the house. This game was also covered by several YouTube channels including Vividplays channel, which is quite a massive channel. The said video can be viewed below.",
+        solution: "Confinement is a survival adventure game I developed for SuperByte studios published on Google Play and also built for Web GL. The game is set in a house whereby the player is locked in a house by a strange man. The goal is to solve puzzles while avoiding the strange man in order to successfully escape the house. This game was also covered by several YouTube channels including Vividplays channel, which is quite a massive channel. The video from the mentioned channel is the one shown below",
         link: "https://play.google.com/store/apps/details?id=com.SuperByteGames.Confinement",
         link_2: "",
         anchorText: "Download Game(Google Play)",
@@ -142,7 +142,7 @@ export const projects = [
             "PC"
         ],
         industry: "design industry",
-        solution: "Zomboid is a retro game with PS1 graphics. I was hired as a Unity Developer to develop a prototype for a client who is a 3D Artist and animator. I was hired to develop the prototype from ground up and to add different mechanics such as the Player Controller, the gun mechanics, In-game map, Inventory management and complex Ai behavior that also allows the players to do counter attacks on enemies.",
+        solution: "Zomboid is a retro game with PS1 graphics. I was hired as a Unity Developer to develop a prototype for a client who is a 3D Artist and animator. I was hired to develop the prototype from ground up and to add different mechanics such as the Player Controller, the gun mechanics, In-game map, Inventory management, complex Ai behavior and the ability for players to do counter attacks on enemies.",
         date: "10 November 2022",
         images: [
             "https://imgdb.net/storage/uploads/e7f51b1f2feef8cfe3b98f6eb336b8bdef12ac62bed20a5427cb1b91ef1b73d3.png",
@@ -159,9 +159,8 @@ export const projects = [
         title: "Run or Die",
         expertise: [
             "CASUAL GAME | ",
-            "HORROR GAME | ",
             "ENDLESS RUNNER | ",
-            "ANDROID"
+            "MOBILE"
         ],
         industry: "design industry",
         solution: "Run or Die is a Casual endless runner whereby Players have to swipe left or right to dodge monsters and cars as they come from the front of them. The game also has Unity Ads and In-App purchases.",
@@ -186,9 +185,8 @@ export const projects = [
         expertise: [
             "HORROR GAME | ",
             "PUZZLE GAME | ",
-            "PUBLISHED | ",
-            "MOBILE |",
-            "WEB GL |"
+            "ADVENTURE GAME |",
+            "PC |"
         ],
         industry: "design industry",
         solution: "They come from the lights is a first-person horror game that has the player wake up in their Apartment only to realize the entire city has been completely overrun by monsters. The only way for the Players to defend themselves is to use a UV flashlight which can chase away the monsters for a short while.",
@@ -263,7 +261,7 @@ export const projects = [
         expertise: [
             "HORROR GAME | ",
             "PUZZLE GAME | ",
-            "ANDROID"
+            "MOBILE"
         ],
         industry: "design industry",
         solution: " Basement of Terror is about a couple that locks a prisoner in their basement so they can pick the perfect candidate for a ritual. You play as the prisoner and you have to find a way to escape the Basement which has different rooms, corridors and puzzles. The objective of the game is to solve puzzles in the basement and each puzzle will lead to a special key of which the player will place on locked door. However, in this basement is also a Ghoulish like creature that has a very strong line of sight and will hear everything the player does from dropping objects to opening doors.",
