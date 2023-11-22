@@ -16,10 +16,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <StatsSection/>
-        <WorkSection projects={projects}/>
         <Header/>
         <SectionOne/>
+        <StatsSection/>
+        <WorkSection projects={projects}/>
       </main>
 
       <style jsx>{`
