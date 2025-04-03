@@ -3,12 +3,12 @@ let videoTitle  = "https://www.youtube.com/embed/12QIjEZmsek";
 export const projects = [
     {
         id: 1,
-        title: "Terror: Evocation II",
+        title: "Mayham Mansion",
         expertise: [
             "SURIVIVAL HORROR GAME | ",
-            "MOBILE | ",
-            "PLAYSTORE | ",
-            "PUBLISHED"
+            "VR | ",
+            "PUZZLE | ",
+            "ESCAPE ROOM"
         ],
         industry: "design industry",
         solution: "Terror: Evocation II is a story driven survival Horror game set in Malawi, Africa. The game has 3 large maps and another semi-large map which is explored in the final chapter of the game. The first 3 maps of the game can be explored in any order depending on how Players want to explore the story but the story will not be affected and will remain the same. As far as gameplay, the game has many features such as a trackable map, Inventory management, In-game shop, Hiding, Crafting, In-App purchases, Loading checkpoints, Perks (Different unique abilities), Combat (both melee and long-range), 5 unique enemy AIs (Each with unique behavior and abilities) and multiple endings. The most unique aspect of this game is the Corruption system whereby the Player’s soul gets corrupted each time they die. Soul corruption changes the dynamic of the game and how enemies react to the player. For instance, there are some enemies that will mainly hunt down the player more when their soul is less corrupt. A higher soul corruption can also have side effects such as locked slots for the perks meaning players cannot use certain abilities when their soul is corrupt. Having high soul corruption also comes with other side effects such as vision impairment and slow movement. Most importantly, the level of corruption of the soul also dictates the endings of the game as currently the game has 3 endings. The game currently has a few thousand downloads and was covered by several YouTube channels.",
@@ -286,6 +286,36 @@ export const projects = [
         ],
         videoLink:"https://www.youtube.com/embed/GeyN_HeyadI",
         videoTitle:"Basement of Terror",
+    },
+    {
+        id: 11,
+        title: "Terror: Evocation II",
+        expertise: [
+            "SURIVIVAL HORROR GAME | ",
+            "MOBILE | ",
+            "PLAYSTORE | ",
+            "PUBLISHED"
+        ],
+        industry: "design industry",
+        solution: "Terror: Evocation II is a story driven survival Horror game set in Malawi, Africa. The game has 3 large maps and another semi-large map which is explored in the final chapter of the game. The first 3 maps of the game can be explored in any order depending on how Players want to explore the story but the story will not be affected and will remain the same. As far as gameplay, the game has many features such as a trackable map, Inventory management, In-game shop, Hiding, Crafting, In-App purchases, Loading checkpoints, Perks (Different unique abilities), Combat (both melee and long-range), 5 unique enemy AIs (Each with unique behavior and abilities) and multiple endings. The most unique aspect of this game is the Corruption system whereby the Player’s soul gets corrupted each time they die. Soul corruption changes the dynamic of the game and how enemies react to the player. For instance, there are some enemies that will mainly hunt down the player more when their soul is less corrupt. A higher soul corruption can also have side effects such as locked slots for the perks meaning players cannot use certain abilities when their soul is corrupt. Having high soul corruption also comes with other side effects such as vision impairment and slow movement. Most importantly, the level of corruption of the soul also dictates the endings of the game as currently the game has 3 endings. The game currently has a few thousand downloads and was covered by several YouTube channels.",
+        link: "https://play.google.com/store/apps/details?id=com.TerrifikGameStudios.terrorevocationii",
+        link_2: "",
+        anchorText: "Download Game(Google Play)",
+        anchorText_2: "",
+        date: "10 November 2022",
+        images: [
+            "https://imgdb.net/storage/uploads/388c824411351149f484d7b99f8942add599344781dd0ef018d80fc0e3c93c40.jpg",
+            "https://imgdb.net/storage/uploads/38511d7750eb9db9c2a098c34bdb5bba7249139b142fc513b5e8615624d5e512.png",
+            "https://imgdb.net/storage/uploads/339aca548f29cb8806e5c9969078f9f4db6c7b009f325ac9a4d1a8816cbcd4a7.png",
+            "https://imgdb.net/storage/uploads/a19d99f30fa28c697fa879beb8ebdb0da60e1f8ddea77b3bb16a1edc6f6df64b.png",
+            "https://imgdb.net/storage/uploads/54d82555387bede4c2eaf0ac5c3acfed3cf2d51f8b2e19e158404f2622ff165b.png",
+            "https://imgdb.net/storage/uploads/9b9d86a38a69af57878342441d0875effb075c7700ed0e793624278d872819e3.png"
+        ],
+        videoLink:"https://www.youtube.com/embed/12QIjEZmsek",
+        videoTitle:"Terror: Evocation II Official Trailer",
+        itchEmbed: "https://itch.io/embed/3316118?border_width=2&bg_color=111111&fg_color=e88d00&link_color=e88d00&border_color=e88d00",
+        itchLink: "https://t3rrifk.itch.io/turn-the-tv-off",
+        itchTitle: "Turn the TV Off by T3rrifk"
     }
 ]
 
