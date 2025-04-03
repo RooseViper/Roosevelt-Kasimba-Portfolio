@@ -35,7 +35,7 @@ const WorkSection = (props) => {
                     <iframe width="1161" height="653" src={videoLink} title={videoTitle} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     {console.log(videoLink)}
                     </div>
-                    {onScreen && <motion.div initial={{ y: '100', opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 1, type: 'tween', duration: 1 }} className="w-full mt-8">
+                   {/* {onScreen && <motion.div initial={{ y: '100', opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 1, type: 'tween', duration: 1 }} className="w-full mt-8">
                         <img src={selectedImg} alt="Selected" className="selected-img-box object-cover" style = {{height:'100%' }}/>
                         <div className="img-box md:flex md:justify-between flex justify-between mt-4">
                             {images.map((image, index) => (
@@ -43,7 +43,7 @@ const WorkSection = (props) => {
                             ))
                             }
                         </div>
-                    </motion.div>}
+                    </motion.div>}*/}
                 </ScrollTrigger>
             </div>
 
