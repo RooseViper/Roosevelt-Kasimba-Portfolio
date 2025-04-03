@@ -11,8 +11,8 @@ export const projects = [
             "ESCAPE ROOM"
         ],
         industry: "design industry",
-        solution: "Mayham Mansion is a VR escape room game where players must escape a mysterious mansion after being captured by an enigmatic figure, all in pursuit of a grand prize. As the project lead in a 2-person team, I was responsible for level design, gameplay design, and storytelling. The game was developed exclusively for the Oculus Quest 2 & 3 and it focuses on immersive puzzles and an atmospheric experience.",
-        link: "https://play.google.com/store/apps/details?id=com.TerrifikGameStudios.terrorevocationii",
+        solution: "Mayham Mansion is a VR escape room game where players must escape a mysterious mansion after being captured by an enigmatic figure, all in pursuit of a grand prize. As the Unity Developer in a 2-person team, I was responsible for level design, gameplay design, and storytelling. The game was developed exclusively for the Oculus Quest 2 & 3 and it focuses on immersive puzzles and an atmospheric experience.",
+        link: "",
         link_2: "",
         anchorText: "",
         anchorText_2: "",
@@ -30,6 +30,59 @@ export const projects = [
         itchEmbed: "https://itch.io/embed/3444867?border_width=2&bg_color=111111&fg_color=ed7100&link_color=ed7100&border_color=ed7100",
         itchLink: "https://eeriepassion.itch.io/mayham-mansion",
         itchTitle: "Mayham Mansion by T3rrifk"
+    },{
+        id: 2,
+        title: "Unolingo",
+        expertise: [
+            "HORROR GAME | ",
+            "PC | ",
+            "INDIE | ",
+            "PUZZLE |" ,
+            "VIRAL"
+        ],
+        industry: "design industry",
+        solution: "Unolingo is a horror game based on Duolingo whereby the player has to progress the game by solving puzzles while learning new languages. I was the sole developer on the project and the game was quite successful, it amassed over 40k installs on itch.io  and peaked to number 4. It also went viral on YouTube at the time and accumulated over 6 million total views from content creators.",
+        link: "https://thecodingsloth.itch.io/unolingo",
+        link_2: "",
+        anchorText: "Download Game",
+        anchorText_2: "",
+        date: "10 November 2022",
+        images: [
+            "https://imgdb.net/storage/uploads/388c824411351149f484d7b99f8942add599344781dd0ef018d80fc0e3c93c40.jpg",
+            "https://imgdb.net/storage/uploads/38511d7750eb9db9c2a098c34bdb5bba7249139b142fc513b5e8615624d5e512.png",
+            "https://imgdb.net/storage/uploads/339aca548f29cb8806e5c9969078f9f4db6c7b009f325ac9a4d1a8816cbcd4a7.png",
+            "https://imgdb.net/storage/uploads/a19d99f30fa28c697fa879beb8ebdb0da60e1f8ddea77b3bb16a1edc6f6df64b.png",
+            "https://imgdb.net/storage/uploads/54d82555387bede4c2eaf0ac5c3acfed3cf2d51f8b2e19e158404f2622ff165b.png",
+            "https://imgdb.net/storage/uploads/9b9d86a38a69af57878342441d0875effb075c7700ed0e793624278d872819e3.png"
+        ],
+        videoLink:"https://www.youtube.com/embed/iJw9BC6P-Ik",
+        videoTitle:"Terror: Evocation II Official Trailer"
+    },
+    {
+        id: 3,
+        title: "Glo VR Museum",
+        expertise: [
+            "MUSUEM | ",
+            "VR EXPERIENCE| ",
+            "IN-HOUSE | "
+        ],
+        industry: "design industry",
+        solution: "Built a VR museum for Nigeria’s mega telecommunications company Globacom Limited Telecommunications. Users could navigate between different categories such as the History of communication, the company and the founder.",
+        link: "",
+        link_2: "",
+        anchorText: "",
+        anchorText_2: "",
+        date: "10 November 2022",
+        images: [
+            "https://imgdb.net/storage/uploads/e2d71801e61756fa9a9ce87ddcad7be9f03b1efeb48c5e32bc3caae03f43df83.png",
+            "https://imgdb.net/storage/uploads/73e4e19a0f36c6363795587d633df70bf36d6f913876ebfa14ce0f2a801d8d6c.png",
+            "https://imgdb.net/storage/uploads/5b1e1cbac8f202c2f863cd4ffd47a388ae33ce80a275071520f1d33352a275a1.png",
+            "https://imgdb.net/storage/uploads/d1b3387cc1d6bacc8df0ad96af3cfe1437d54aabfed2c9109d43b61c60e65074.png",
+            "https://imgdb.net/storage/uploads/e47a28d13e88dcd124116c63e1c299d480aaf574b247fd84f066ef51532ff44a.png",
+            "https://imgdb.net/storage/uploads/55ad9a9d5abb49759b8687078a2d75ccad681f7ca424e292aa7846c97bf10b32.png"
+        ],
+        videoLink:"https://www.youtube.com/embed/sp27B_Ni0yY",
+        videoTitle:"FingerBall Trailer",
     },
     {
         id: 2,

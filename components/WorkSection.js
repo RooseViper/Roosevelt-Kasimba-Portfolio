@@ -25,8 +25,20 @@ const WorkSection = (props) => {
                         </div>
                         <div className="md:w-3/5">
                             {onScreen&&<motion.p initial={{ x: '100', opacity: 0 }} animate={{ x: 0, opacity: 1 }} transition={{ delay: 1, type: 'tween', duration: 1 }}>{solution}</motion.p>}
-                            <a href={link}>{anchorText}</a>-----
+                            <a href={link}>{anchorText}</a>.
                             <a href={link_2}>{anchorText_2}</a>
+                            <div>
+                                {/* Conditionally render the Itch.io button */}
+                                {itchEmbed && (
+                                    <iframe
+                                        frameBorder="0"
+                                        src={itchEmbed}
+                                        width="554"
+                                        height="169">
+                                        <a href={itchLink}>{itchTitle}</a>
+                                    </iframe>
+                                )}
+                            </div>
                         </div>
                     </div>
                     <div className="iframe-container">
@@ -34,18 +46,6 @@ const WorkSection = (props) => {
                     <iframe width="1161" height="653" src={videoLink} title={videoTitle} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     {console.log(videoLink)}
                      
-                    </div>
-                    <div>
-                        {/* Conditionally render the Itch.io button */}
-                        {itchEmbed && (
-                            <iframe
-                                frameborder="0"
-                                src={itchEmbed}
-                                width="554"
-                                height="169">
-                                <a href={itchLink}>{itchTitle}</a>
-                            </iframe>
-                        )}
                     </div>
                    {/* {onScreen && <motion.div initial={{ y: '100', opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 1, type: 'tween', duration: 1 }} className="w-full mt-8">
                         <img src={selectedImg} alt="Selected" className="selected-img-box object-cover" style = {{height:'100%' }}/>
