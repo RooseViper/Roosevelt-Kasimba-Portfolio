@@ -74,7 +74,7 @@ const Header = () => {
             <div className="w-full md:w-9/12 text-center mx-auto">
                 <motion.h1 initial={{ y: '-100', opacity: 0 }}
                     animate={{ y: 0, opacity: 1 }}
-                    transition={{ delay: 1, type: 'tween', duration: .75 }} className="text-3xl md:text-5xl font-bold">Roosevelt Kasimba Mwandira | Game Developer</motion.h1>
+                    transition={{ delay: 1, type: 'tween', duration: .75 }} className="text-3xl md:text-5xl font-bold">About me | Skills</motion.h1>
             </div>
             <div className="w-full flex justify-center my-4">
                 <Divider />

@@ -32,7 +32,7 @@ const Navbar = () => {
                 <div className="w-1/5">
                     <a className="hover:font-bold hover:text-orange-500" href="mailto:roosekasimba@gmail.com?subject=Hello Roose">roosekasimba@gmail.com</a>
                     </div>
-                <div className="flex justify-center w-3/5"><h1 className="text-2xl font-bold">Roosevelt<span className="accent text-5xl">.</span></h1></div>
+                <div className="flex justify-center w-3/5"><h1 className="text-2xl font-bold">Roosevelt Kasimba | Game/XR Developer<span className="accent text-5xl">.</span></h1></div>
                 <div className="flex space-x-4 w-1/5 justify-end">
                 <Link className="cursor-pointer hover:font-bold hover:text-orange-500" to="work" spy={true} smooth={true} offset={0} duration={500} onClick={closeMenu}>Works</Link>
                 </div>
