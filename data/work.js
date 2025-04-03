@@ -27,6 +27,9 @@ export const projects = [
         ],
         videoLink:"https://www.youtube.com/embed/12QIjEZmsek",
         videoTitle:"Terror: Evocation II Official Trailer",
+        itchEmbed: "https://itch.io/embed/3316118?border_width=2&bg_color=111111&fg_color=e88d00&link_color=e88d00&border_color=e88d00",
+        itchLink: "https://t3rrifk.itch.io/turn-the-tv-off",
+        itchTitle: "Turn the TV Off by T3rrifk"
     },
     {
         id: 2,
