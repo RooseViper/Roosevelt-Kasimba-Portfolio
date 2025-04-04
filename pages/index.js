@@ -15,8 +15,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <WorkSection projects={projects}/>
         <Header/>
+        <WorkSection projects={projects}/>
         <StatsSection/>
         <SectionOne/>
       </main>
