@@ -16,8 +16,8 @@ export default function Home() {
       </Head>
       <main>
         <WorkSection projects={projects}/>
-        <StatsSection/>
         <Header/>
+        <StatsSection/>
         <SectionOne/>
       </main>
 

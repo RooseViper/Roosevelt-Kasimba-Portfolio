@@ -31,6 +31,7 @@ const StatsSection = () => {
                 <div className="text-center">
                     {counterOn && <h2 className="accent text-5xl font-bold"><CountUp start={0} end={5} duration={1} delay={0} /></h2>}
                     <p>Games Shipped</p>
+                    <p><br /><br /><br /></p>
                 </div>
             </ScrollTrigger>
         </div>

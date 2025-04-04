@@ -32,7 +32,7 @@ const Header = () => {
                 animate={{ x: 0, opacity: 1 }}
                 transition={{ delay: 1, type: 'tween', duration: .75 }} className="flex flex-col w-full mt-8 md:m-0 md:text-left">
                 <h4 className="uppercase tracking-widest font-bold">About Me</h4>
-                <ReadMore text="My name is Roosevelt Kasimba Mwandira and I am a highly passionate Game Developer. My passion for game development allows me to extend my thoughts into reality. The best part about this is that I get to share these thoughts as immersive experiences that can be experienced by anyone. My love for immersion is also one of the reasons I really enjoy developing Horror games as I love how easier it is for players to get immersed in a Horror setting.">
+                <ReadMore text="My name is Roosevelt Kasimba Mwandira and I am a highly passionate Game/XR Developer. My passion for Game/XR development allows me to extend my thoughts into reality. The best part about this is that I get to share these thoughts as immersive experiences that can be experienced by anyone.">
                 </ReadMore>
             </motion.div>}
             </ScrollTrigger>
