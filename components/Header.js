@@ -52,6 +52,7 @@ const Header = () => {
                     <p>• Unity •</p>
                     <p>• Unreal Engine •</p>
                     <p>• Phaser •</p>
+                    <p>• Multiplayer •</p>
                     <p>• C# •</p>
                     <p>• JavaScript •</p>
                     <p>• Git •</p>
@@ -61,7 +62,6 @@ const Header = () => {
                     <p>• Adobe Photoshop •</p>
                     <p>• Docker •</p>
                     <p>• ASP.NET Core •</p>
-                    <p>• Postman •</p>
                     <p>• 3D Modelling (Unity Pro-Builder) •</p>
                     <p>• FL Studio •</p>
                 </div>

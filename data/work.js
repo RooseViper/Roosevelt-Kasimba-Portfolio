@@ -60,6 +60,36 @@ export const projects = [
     },
     {
         id: 3,
+        title: "Chipped",
+        expertise: [
+            "SCI-FI | ",
+            "HORROR | ",
+            "SINGLE-PLAYER | ",
+            "PUZZLES"
+        ],
+        industry: "design industry",
+        solution: "I developed a story driven sci-fi game whereby you play as a brain implant recipient that can sync and control a robot, which is also your enemy throughout the game. The game has a very unique puzzle system that involves physics and having to control both the player and the robot inorder to progress the game.",
+        link: "",
+        link_2: "",
+        anchorText: "",
+        anchorText_2: "",
+        date: "10 November 2022",
+        images: [
+            "https://imgdb.net/storage/uploads/e2d71801e61756fa9a9ce87ddcad7be9f03b1efeb48c5e32bc3caae03f43df83.png",
+            "https://imgdb.net/storage/uploads/73e4e19a0f36c6363795587d633df70bf36d6f913876ebfa14ce0f2a801d8d6c.png",
+            "https://imgdb.net/storage/uploads/5b1e1cbac8f202c2f863cd4ffd47a388ae33ce80a275071520f1d33352a275a1.png",
+            "https://imgdb.net/storage/uploads/d1b3387cc1d6bacc8df0ad96af3cfe1437d54aabfed2c9109d43b61c60e65074.png",
+            "https://imgdb.net/storage/uploads/e47a28d13e88dcd124116c63e1c299d480aaf574b247fd84f066ef51532ff44a.png",
+            "https://imgdb.net/storage/uploads/55ad9a9d5abb49759b8687078a2d75ccad681f7ca424e292aa7846c97bf10b32.png"
+        ],
+        videoLink:"https://www.youtube.com/embed/8l0Hb3j2u_w",
+        videoTitle:"FingerBall Trailer",
+        itchEmbed: "https://itch.io/embed/3088601?border_width=2&bg_color=111111&fg_color=ed7100&link_color=ed7100&border_color=ed7100",
+        itchLink: "https://eeriepassion.itch.io/mayham-mansionefefw",
+        itchTitle: "Mayham Mansion by T3rrifk"
+    },
+    {
+        id: 4,
         title: "Glo VR Museum",
         expertise: [
             "MUSUEM | ",
@@ -82,10 +112,39 @@ export const projects = [
             "https://imgdb.net/storage/uploads/55ad9a9d5abb49759b8687078a2d75ccad681f7ca424e292aa7846c97bf10b32.png"
         ],
         videoLink:"https://www.youtube.com/embed/sp27B_Ni0yY",
-        videoTitle:"FingerBall Trailer",
+        videoTitle:"Glo video",
     },
     {
-        id: 2,
+        id: 5,
+        title: "Turn the TV Off",
+        expertise: [
+            "HUMOUR| ",
+            "HORROR | ",
+            "VIRAL"
+        ],
+        industry: "design industry",
+        solution: "This is a short horror game I worked on in 2 weeks and is based on famous rapper Kendrick Lamar. I collaborated with a voice actor and music composer. Upon its release on February 10, 2025, the game was widely shared and covered across most social media platforms by different users. Also The Game Awards winner for Gamer of the year “Caseoh” among many other content creators, managed to play the game on his platform which has since further boosted its popularity. It peaked at number 19 at top popular games on itch.io.",
+        link: "",
+        link_2: "",
+        anchorText: "",
+        anchorText_2: "",
+        date: "10 November 2022",
+        images: [
+            "https://imgdb.net/storage/uploads/e2d71801e61756fa9a9ce87ddcad7be9f03b1efeb48c5e32bc3caae03f43df83.png",
+            "https://imgdb.net/storage/uploads/73e4e19a0f36c6363795587d633df70bf36d6f913876ebfa14ce0f2a801d8d6c.png",
+            "https://imgdb.net/storage/uploads/5b1e1cbac8f202c2f863cd4ffd47a388ae33ce80a275071520f1d33352a275a1.png",
+            "https://imgdb.net/storage/uploads/d1b3387cc1d6bacc8df0ad96af3cfe1437d54aabfed2c9109d43b61c60e65074.png",
+            "https://imgdb.net/storage/uploads/e47a28d13e88dcd124116c63e1c299d480aaf574b247fd84f066ef51532ff44a.png",
+            "https://imgdb.net/storage/uploads/55ad9a9d5abb49759b8687078a2d75ccad681f7ca424e292aa7846c97bf10b32.png"
+        ],
+        videoLink:"https://www.youtube.com/embed/JacezyEMnG8",
+        videoTitle:"FingerBall Trailer",
+        itchEmbed: "https://itch.io/embed/3316118?border_width=2&bg_color=111111&fg_color=ed7100&link_color=ed7100&border_color=ed7100",
+        itchLink: "https://eeriepassion.itch.io/mayham-mansionefefw",
+        itchTitle: "Mayham Mansion by T3rrifk"
+    },
+    {
+        id: 6,
         title: "FingerBall",
         expertise: [
             "ARCADE GAME | ",
@@ -98,7 +157,7 @@ export const projects = [
             "Players can create their own formations, select their own teams and the game has unique rules that have to be followed such as allowing the players to destroy opponent caps or destroying a barrier first before they can score. Besides having to score to win, Players can also choose to just destroy all their opponents’ caps by hitting them.\n ",
         link: "https://play.google.com/store/apps/details?id=com.KCHKNA.FingerBall",
         link_2: "",
-        anchorText: "Download Game(Google Play)",
+        anchorText: "Download Game",
         anchorText_2: "",
         date: "10 November 2022",
         images: [
@@ -113,7 +172,7 @@ export const projects = [
         videoTitle:"FingerBall Trailer",
     },
     {
-        id: 4,
+        id: 7,
         title: "Sheria's World",
         expertise: [
             "2D | ",
@@ -122,7 +181,7 @@ export const projects = [
             "PC"
         ],
         industry: "design industry",
-        solution: "Sheria’s World is a project I did for a local game jam I participated in last year. I was a solo developer and we were given 48 hours to come up with a 2D prototype game involving a character transported to a foreign medieval universe. Additionally, the character also had to interact and converse with an NPC, buy and sell items with in-game currency and to also be able to buy and change outfits. All the expected requirements were completed in time as requested.",
+        solution: "Sheria’s World is a project I did for a local game jam I participated in 2022. I was a solo developer and we were given 48 hours to come up with a 2D prototype game involving a character transported to a foreign medieval universe. Additionally, the character also had to interact and converse with an NPC, buy and sell items with in-game currency and to also be able to buy and change outfits. All the expected requirements were completed in time as requested.",
         link: "https://github.com/RooseViper/Sheria-s-World",
         link_2: "",
         anchorText: "Download Game(Github)",
@@ -138,7 +197,34 @@ export const projects = [
         videoTitle:"Sheria's World video",
     },
     {
-        id: 5,
+        id: 8,
+        title: "Terror: Evocation II",
+        expertise: [
+            "SURIVIVAL HORROR GAME | ",
+            "MOBILE | ",
+            "PLAYSTORE | ",
+            "PUBLISHED"
+        ],
+        industry: "design industry",
+        solution: "Terror: Evocation II is a story-driven mobile survival horror game set in Malawi, Africa. It features 3 large maps and a semi-large final chapter map, with the first 3 being freely explorable in any order without affecting the storyline. Key gameplay features include a trackable map, inventory management, in-game shop, hiding, crafting, in-app purchases, checkpoints, perks, melee and ranged combat, 5 unique enemy AIs, and multiple endings.\n" +
+            "The game’s standout mechanic is the Corruption system, where each player's death corrupts their soul. This affects enemy behavior, limits perks, and introduces side effects like vision issues and slowed movement. Soul corruption also influences which of the game’s three endings the player receives. The game received a few thousand downloads and was featured by a few YouTubers.",
+        link: "https://play.google.com/store/apps/details?id=com.TerrifikGameStudios.terrorevocationii",
+        link_2: "",
+        anchorText: "Download Game(Google Play)",
+        anchorText_2: "",
+        date: "10 November 2022",
+        images: [
+            "https://imgdb.net/storage/uploads/388c824411351149f484d7b99f8942add599344781dd0ef018d80fc0e3c93c40.jpg",
+            "https://imgdb.net/storage/uploads/38511d7750eb9db9c2a098c34bdb5bba7249139b142fc513b5e8615624d5e512.png",
+            "https://imgdb.net/storage/uploads/339aca548f29cb8806e5c9969078f9f4db6c7b009f325ac9a4d1a8816cbcd4a7.png",
+            "https://imgdb.net/storage/uploads/a19d99f30fa28c697fa879beb8ebdb0da60e1f8ddea77b3bb16a1edc6f6df64b.png",
+            "https://imgdb.net/storage/uploads/54d82555387bede4c2eaf0ac5c3acfed3cf2d51f8b2e19e158404f2622ff165b.png",
+            "https://imgdb.net/storage/uploads/9b9d86a38a69af57878342441d0875effb075c7700ed0e793624278d872819e3.png"
+        ],
+        videoLink:"https://www.youtube.com/embed/12QIjEZmsek"
+    },
+    {
+        id: 9,
         title: "Confinement",
         expertise: [
             "HORROR GAME | ",
@@ -164,7 +250,7 @@ export const projects = [
         videoTitle:"Confinement Walkthrough",
     },
     {
-        id: 7,
+        id: 10,
         title: "Run or Die",
         expertise: [
             "CASUAL GAME | ",
@@ -187,36 +273,6 @@ export const projects = [
         ],
         videoLink:"https://www.youtube.com/embed/KQhYcdm4kr0",
         videoTitle:"From the Darkness",
-    },
-    {
-        id: 8,
-        title: "Terror: Evocation II",
-        expertise: [
-            "SURIVIVAL HORROR GAME | ",
-            "MOBILE | ",
-            "PLAYSTORE | ",
-            "PUBLISHED"
-        ],
-        industry: "design industry",
-        solution: "Terror: Evocation II is a story driven survival Horror game set in Malawi, Africa. The game has 3 large maps and another semi-large map which is explored in the final chapter of the game. The first 3 maps of the game can be explored in any order depending on how Players want to explore the story but the story will not be affected and will remain the same. As far as gameplay, the game has many features such as a trackable map, Inventory management, In-game shop, Hiding, Crafting, In-App purchases, Loading checkpoints, Perks (Different unique abilities), Combat (both melee and long-range), 5 unique enemy AIs (Each with unique behavior and abilities) and multiple endings. The most unique aspect of this game is the Corruption system whereby the Player’s soul gets corrupted each time they die. Soul corruption changes the dynamic of the game and how enemies react to the player. For instance, there are some enemies that will mainly hunt down the player more when their soul is less corrupt. A higher soul corruption can also have side effects such as locked slots for the perks meaning players cannot use certain abilities when their soul is corrupt. Having high soul corruption also comes with other side effects such as vision impairment and slow movement. Most importantly, the level of corruption of the soul also dictates the endings of the game as currently the game has 3 endings. The game currently has a few thousand downloads and was covered by several YouTube channels.",
-        link: "https://play.google.com/store/apps/details?id=com.TerrifikGameStudios.terrorevocationii",
-        link_2: "",
-        anchorText: "Download Game(Google Play)",
-        anchorText_2: "",
-        date: "10 November 2022",
-        images: [
-            "https://imgdb.net/storage/uploads/388c824411351149f484d7b99f8942add599344781dd0ef018d80fc0e3c93c40.jpg",
-            "https://imgdb.net/storage/uploads/38511d7750eb9db9c2a098c34bdb5bba7249139b142fc513b5e8615624d5e512.png",
-            "https://imgdb.net/storage/uploads/339aca548f29cb8806e5c9969078f9f4db6c7b009f325ac9a4d1a8816cbcd4a7.png",
-            "https://imgdb.net/storage/uploads/a19d99f30fa28c697fa879beb8ebdb0da60e1f8ddea77b3bb16a1edc6f6df64b.png",
-            "https://imgdb.net/storage/uploads/54d82555387bede4c2eaf0ac5c3acfed3cf2d51f8b2e19e158404f2622ff165b.png",
-            "https://imgdb.net/storage/uploads/9b9d86a38a69af57878342441d0875effb075c7700ed0e793624278d872819e3.png"
-        ],
-        videoLink:"https://www.youtube.com/embed/12QIjEZmsek",
-        videoTitle:"Terror: Evocation II Official Trailer",
-        itchEmbed: "https://itch.io/embed/3316118?border_width=2&bg_color=111111&fg_color=e88d00&link_color=e88d00&border_color=e88d00",
-        itchLink: "https://t3rrifk.itch.io/turn-the-tv-off",
-        itchTitle: "Turn the TV Off by T3rrifk"
     }
 ]
 
