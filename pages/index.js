@@ -11,15 +11,14 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Roose | Game Developer</title>
+        <title>Roose | Game/XR Developer</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <main>
-        <Header/>
-        <SectionOne/>
-        <StatsSection/>
         <WorkSection projects={projects}/>
+        <Header/>
+        <StatsSection/>
+        <SectionOne/>
       </main>
 
       <style jsx>{`

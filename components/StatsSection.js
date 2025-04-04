@@ -21,16 +21,17 @@ const StatsSection = () => {
 
             <ScrollTrigger className="w-full md:w-1/2 grid grid-cols-2 gap-4 mt-8 md:mt-0" onEnter={() => setCounterOn(true)} onExit={() => setCounterOn(false)}>
                 <div className="text-center">
-                    {counterOn && <h2 className="accent text-5xl font-bold"><CountUp start={0} end={5} duration={1.5} delay={0} />+</h2>}
+                    {counterOn && <h2 className="accent text-5xl font-bold"><CountUp start={0} end={7} duration={1.5} delay={0} />+</h2>}
                     <p>Years of Experience</p>
                 </div>
                 <div className="text-center">
-                    {counterOn && <h2 className="accent text-5xl font-bold"><CountUp start={0} end={15} duration={1.5} delay={0} />+</h2>}
+                    {counterOn && <h2 className="accent text-5xl font-bold"><CountUp start={0} end={20} duration={1.5} delay={0} />+</h2>}
                     <p>Games Completed</p>
                 </div>
                 <div className="text-center">
                     {counterOn && <h2 className="accent text-5xl font-bold"><CountUp start={0} end={5} duration={1} delay={0} /></h2>}
                     <p>Games Shipped</p>
+                    <p><br /><br /><br /></p>
                 </div>
             </ScrollTrigger>
         </div>

@@ -10,12 +10,12 @@ const Footer = () => {
             </div>
             <div className=" text-neutral-700 flex items-center justify-center space-x-10 mb-10 mt-10">
                 <a href="https://roosekasimba@gmail.com"><div className="hover:text-orange-500"><IoMailOutline size={40}/></div></a>
-                <a href="https://twitter.com/DevRoose"><div className="hover:text-orange-500"><IoLogoTwitter size={40}/></div></a>
+                <a href="https://x.com/DevRoose"><div className="hover:text-orange-500"><IoLogoTwitter size={40}/></div></a>
                 <a href="https://www.instagram.com/terrifikgamestudios/"><div className="hover:text-orange-500"><IoLogoInstagram size={40}/></div></a>
                 <a href="https://www.linkedin.com/in/roosevelt-kasimba-mwandira-1481a028b"><div className="hover:text-orange-500"><IoLogoLinkedin size={40}/></div></a>
                 <a href="https://github.com/RooseViper"><div className="hover:text-orange-500"><IoLogoGithub size={40}/></div></a>
             </div>
-            <p className="text-center text-neutral-700">Roosevelt Mwandira &copy; 2022 All Rights Reserved</p>
+            <p className="text-center text-neutral-700">Roosevelt Kasimba Mwandira &copy; 2025 All Rights Reserved</p>
         </div>
     );
 }

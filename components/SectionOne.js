@@ -6,7 +6,7 @@ import Divider from "./Divider";
 const SectionOne = () => {
     const [onScreen, setOnScreen] = useState(false);
     return (
-        <div className="w-full min-h-56 md:-mt-10">
+        <div className="w-full min-h-75 md:-mt-10">
            <ScrollTrigger onEnter={() => setOnScreen(true)}>
             <div className="breakout h-full flex flex-col justify-center items-center pb-16">
                 <motion.div initial={{ y: '100', opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 1, type: 'tween', duration: .75 }} className="text-orange-500 mt-12">
@@ -17,8 +17,21 @@ const SectionOne = () => {
                         <div className="flex justify-center my-4">
                             {onScreen && <Divider />}
                         </div>
-                    
-                    {onScreen && <motion.p initial={{ y: '100', opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 1, type: 'tween', duration: .75 }}  className="md:w-1/2 mx-auto md:text-center px-5">My game development journey started during my first year of university in 2016 and my interest to make games was mainly after I saw the rise of Android games at the time, especially those with high 3D graphics. During this time, I researched and finally discovered Unity which made me realize the potential of not just mobile games, but how accessible it made game development to smaller independent developers such as myself. During my 3rd year of university, I finally released my first game ever Terror: Evocation 1 on Google Play Store just to see how far my skills had come. I released it on Play Store just so my friends could download and try it out but to my surprise, it got discovered by a few Youtubers at the time and their videos amassed thousands of views which boosted my downloads to over 3000. A few weeks after this happened, the game got pulled off Google Play because it didn’t have a Privacy Policy and I never reuploaded it due to conflicting tight deadlines at school. This small and short-lived success meant everything to me at the time as it was what solidified my mindset to take game development very seriously and to pursue it as a career path. After graduating, I released my latest game Terror: Evocation 2 and I have also since been freelancing as a Unity Game Developer whilst looking for better, more stable opportunites. Working as a Freelancer for the past 3 years, I have since been extending my game development expertise to different clients all over the world.</motion.p>}
+                    {onScreen && (
+                        <motion.ul
+                            initial={{ y: '100', opacity: 0 }}
+                            animate={{ y: 0, opacity: 1 }}
+                            transition={{ delay: 1, type: 'tween', duration: 0.75 }}
+                            className="md:w-1/2 mx-auto md:text-center px-5 text-left list-disc list-inside space-y-2 text-white"
+                        >
+                            <li><strong>2015:</strong> Started university and became inspired by the rise of high-quality 3D Android games.</li>
+                            <li><strong>2016:</strong> Discovered Unity and began exploring mobile game development.</li>
+                            <li><strong>2017:</strong> Released my first game <em>Terror: Evocation 1</em> on Google Play. It was featured by YouTubers, resulting in 3,000+ downloads.</li>
+                            <li><strong>2019:</strong> Graduated and started to make my 2nd game <em>Terror: Evocation 2</em></li>
+                            <li><strong>2022:</strong> Released <em>Terror: Evocation 2</em>.</li>
+                            <li><strong>2021–Present:</strong> Freelancing as a Game Developer for clients worldwide, expanding my skills and portfolio.</li>
+                        </motion.ul>
+                    )}
                 </div>
             </div>
             </ScrollTrigger>

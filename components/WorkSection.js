@@ -7,7 +7,7 @@ import ScrollTrigger from "react-scroll-trigger";
 const WorkSection = (props) => {
     const [onScreen, setOnScreen] = useState(false);
 
-    function ProjectLayout({ title, id, expertise, solution, link,link_2, anchorText,anchorText_2, images, videoLink, videoTitle }) {
+    function ProjectLayout({ title, id, expertise, solution, link,link_2, anchorText,anchorText_2, images, videoLink, videoTitle, itchEmbed, itchLink, itchTitle}) {
         const [selectedImg, setSelectedImg] = useState(images[0]);
 
         return (
@@ -25,17 +25,29 @@ const WorkSection = (props) => {
                         </div>
                         <div className="md:w-3/5">
                             {onScreen&&<motion.p initial={{ x: '100', opacity: 0 }} animate={{ x: 0, opacity: 1 }} transition={{ delay: 1, type: 'tween', duration: 1 }}>{solution}</motion.p>}
-                            <a href={link}>{anchorText}</a>-----
+                            <a href={link}>{anchorText}</a>.
                             <a href={link_2}>{anchorText_2}</a>
+                            <div>
+                                {/* Conditionally render the Itch.io button */}
+                                {itchEmbed && (
+                                    <iframe
+                                        frameBorder="0"
+                                        src={itchEmbed}
+                                        width="554"
+                                        height="169">
+                                        <a href={itchLink}>{itchTitle}</a>
+                                    </iframe>
+                                )}
+                            </div>
                         </div>
-                        
                     </div>
                     <div className="iframe-container">
                     {/* <iframe width="640" height="360" src="https://www.youtube.com/embed/GeyN_HeyadI" title="Basement of Fear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
                     <iframe width="1161" height="653" src={videoLink} title={videoTitle} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     {console.log(videoLink)}
+                     
                     </div>
-                    {onScreen && <motion.div initial={{ y: '100', opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 1, type: 'tween', duration: 1 }} className="w-full mt-8">
+                   {/* {onScreen && <motion.div initial={{ y: '100', opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 1, type: 'tween', duration: 1 }} className="w-full mt-8">
                         <img src={selectedImg} alt="Selected" className="selected-img-box object-cover" style = {{height:'100%' }}/>
                         <div className="img-box md:flex md:justify-between flex justify-between mt-4">
                             {images.map((image, index) => (
@@ -43,7 +55,7 @@ const WorkSection = (props) => {
                             ))
                             }
                         </div>
-                    </motion.div>}
+                    </motion.div>}*/}
                 </ScrollTrigger>
             </div>
 
@@ -56,7 +68,7 @@ const WorkSection = (props) => {
             <div className="w-full mt-8">
                 {projects.map((project, index) => (
                     <div key={index}>
-                        <ProjectLayout title={project.title} id={project.id} expertise={project.expertise} anchorText={project.anchorText} anchorText_2={project.anchorText_2} solution={project.solution} link={project.link} link_2={project.link_2} An images={project.images} videoLink={project.videoLink} videoTitle={project.videoTitle}/>
+                        <ProjectLayout title={project.title} id={project.id} expertise={project.expertise} anchorText={project.anchorText} anchorText_2={project.anchorText_2} solution={project.solution} link={project.link} link_2={project.link_2} images={project.images} videoLink={project.videoLink} videoTitle={project.videoTitle} itchEmbed={project.itchEmbed} itchLink={project.itchLink} itchTitle={project.itchTitle}/>
 
                     </div>
                 ))}
