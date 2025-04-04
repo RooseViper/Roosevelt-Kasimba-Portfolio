@@ -41,7 +41,7 @@ export const projects = [
             "VIRAL"
         ],
         industry: "design industry",
-        solution: "Unolingo is a horror game based on Duolingo whereby the player has to progress the game by solving puzzles while learning new languages. I was the sole developer on the project and the game was quite successful, it amassed over 40k installs on itch.io  and peaked to number 4. It also went viral on YouTube at the time and accumulated over 6 million total views from content creators.",
+        solution: "Unolingo is a horror game based on Duolingo whereby the player has to progress the game by solving language based puzzles. I was the sole developer on the project and the game was quite successful, it amassed over 40k installs on itch.io  and peaked to number 4. It also went viral on YouTube at the time and accumulated over 6 million total views from content creators.",
         link: "https://thecodingsloth.itch.io/unolingo",
         link_2: "",
         anchorText: "Download Game",
@@ -123,7 +123,7 @@ export const projects = [
             "VIRAL"
         ],
         industry: "design industry",
-        solution: "This is a short horror game I worked on in 2 weeks and is based on famous rapper Kendrick Lamar. I collaborated with a voice actor and music composer. Upon its release on February 10, 2025, the game was widely shared and covered across most social media platforms by different users. Also The Game Awards winner for Gamer of the year “Caseoh” among many other content creators, managed to play the game on his platform which has since further boosted its popularity. It peaked at number 19 at top popular games on itch.io.",
+        solution: "This is a short horror game I worked on in 2 weeks and is based on famous rapper Kendrick Lamar. I collaborated with a voice actor and music composer. Upon its release on February 10, 2025, the game was widely shared and covered across most social media platforms by different users. The Game Awards winner for Gamer of the year “Caseoh” among many other content creators, managed to play the game on his platform which has since further boosted its popularity. It peaked at number 19 at top popular games on itch.io.",
         link: "",
         link_2: "",
         anchorText: "",
@@ -207,7 +207,7 @@ export const projects = [
         ],
         industry: "design industry",
         solution: "Terror: Evocation II is a story-driven mobile survival horror game set in Malawi, Africa. It features 3 large maps and a semi-large final chapter map, with the first 3 being freely explorable in any order without affecting the storyline. Key gameplay features include a trackable map, inventory management, in-game shop, hiding, crafting, in-app purchases, checkpoints, perks, melee and ranged combat, 5 unique enemy AIs, and multiple endings.\n" +
-            "The game’s standout mechanic is the Corruption system, where each player's death corrupts their soul. This affects enemy behavior, limits perks, and introduces side effects like vision issues and slowed movement. Soul corruption also influences which of the game’s three endings the player receives. The game received a few thousand downloads and was featured by a few YouTubers.",
+            "The game’s standout mechanic is the Corruption system, where each player's death corrupts their soul. This affects enemy behavior, limits perks, and introduces side effects like vision issues and slowed movement. Soul corruption also influences the ending the player receives. The game received a few thousand downloads and was featured by a few YouTubers.",
         link: "https://play.google.com/store/apps/details?id=com.TerrifikGameStudios.terrorevocationii",
         link_2: "",
         anchorText: "Download Game(Google Play)",
@@ -234,7 +234,7 @@ export const projects = [
             "WEB GL"
         ],
         industry: "design industry",
-        solution: "Confinement is a survival adventure game I developed for SuperByte studios published on Google Play and also built for Web GL. The game is set in a house whereby the player is locked in a house by a strange man. The goal is to solve puzzles while avoiding the strange man in order to successfully escape the house. This game was also covered by several YouTube channels including Vividplays channel, which is quite a massive channel. The video from the mentioned channel is the one shown below",
+        solution: "Confinement is a survival adventure game I developed for SuperByte studios published on Google Play and also built for WebGL. The game is set in a house whereby the player is locked in a house by a strange man. The goal is to solve puzzles while avoiding the strange man in order to successfully escape the house. This game was also covered by several YouTube channels including Vividplays channel, which is quite a massive channel. The video from the mentioned channel is the one shown below",
         link: "https://play.google.com/store/apps/details?id=com.SuperByteGames.Confinement",
         link_2: "",
         anchorText: "Download Game(Google Play)",
