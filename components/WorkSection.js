@@ -33,7 +33,7 @@ const WorkSection = (props) => {
                                     <iframe
                                         frameBorder="0"
                                         src={itchEmbed}
-                                        width="554"
+                                        width="350"
                                         height="169">
                                         <a href={itchLink}>{itchTitle}</a>
                                     </iframe>
