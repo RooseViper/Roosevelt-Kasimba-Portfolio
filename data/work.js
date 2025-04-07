@@ -111,7 +111,7 @@ export const projects = [
             "https://imgdb.net/storage/uploads/e47a28d13e88dcd124116c63e1c299d480aaf574b247fd84f066ef51532ff44a.png",
             "https://imgdb.net/storage/uploads/55ad9a9d5abb49759b8687078a2d75ccad681f7ca424e292aa7846c97bf10b32.png"
         ],
-        videoLink:"https://www.youtube.com/embed/sp27B_Ni0yY",
+        videoLink:"https://www.youtube.com/embed/IpReU7zPyBE",
         videoTitle:"Glo video",
     },
     {
