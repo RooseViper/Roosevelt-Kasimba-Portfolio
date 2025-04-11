@@ -3,41 +3,12 @@ let videoTitle  = "https://www.youtube.com/embed/12QIjEZmsek";
 export const projects = [
     {
         id: 1,
-        title: "Mayham Mansion",
-        expertise: [
-            "SURIVIVAL HORROR GAME | ",
-            "VR | ",
-            "PUZZLE | ",
-            "ESCAPE ROOM"
-        ],
-        industry: "design industry",
-        solution: "Mayham Mansion is a VR escape room game where players must escape a mysterious mansion after being captured by an enigmatic figure, all in pursuit of a grand prize. As the Unity Developer in a 2-person team, I was responsible for level design, gameplay design, and storytelling. The game was developed exclusively for the Oculus Quest 2 & 3 and it focuses on immersive puzzles and an atmospheric experience.",
-        link: "",
-        link_2: "",
-        anchorText: "",
-        anchorText_2: "",
-        date: "10 November 2022",
-        images: [
-            "https://imgdb.net/storage/uploads/388c824411351149f484d7b99f8942add599344781dd0ef018d80fc0e3c93c40.jpg",
-            "https://imgdb.net/storage/uploads/38511d7750eb9db9c2a098c34bdb5bba7249139b142fc513b5e8615624d5e512.png",
-            "https://imgdb.net/storage/uploads/339aca548f29cb8806e5c9969078f9f4db6c7b009f325ac9a4d1a8816cbcd4a7.png",
-            "https://imgdb.net/storage/uploads/a19d99f30fa28c697fa879beb8ebdb0da60e1f8ddea77b3bb16a1edc6f6df64b.png",
-            "https://imgdb.net/storage/uploads/54d82555387bede4c2eaf0ac5c3acfed3cf2d51f8b2e19e158404f2622ff165b.png",
-            "https://imgdb.net/storage/uploads/9b9d86a38a69af57878342441d0875effb075c7700ed0e793624278d872819e3.png"
-        ],
-        videoLink:"https://www.youtube.com/embed/IEISZAxPy9U",
-        videoTitle:"Terror: Evocation II Official Trailer",
-        itchEmbed: "https://itch.io/embed/3444867?border_width=2&bg_color=111111&fg_color=ed7100&link_color=ed7100&border_color=ed7100",
-        itchLink: "https://eeriepassion.itch.io/mayham-mansion",
-        itchTitle: "Mayham Mansion by T3rrifk"
-    },{
-        id: 2,
         title: "Unolingo",
         expertise: [
-            "HORROR GAME | ",
-            "PC | ",
-            "INDIE | ",
-            "PUZZLE |" ,
+            "HORROR GAME",
+            "PC",
+            "INDIE",
+            "PUZZLE" ,
             "VIRAL"
         ],
         industry: "design industry",
@@ -59,67 +30,13 @@ export const projects = [
         videoTitle:"Terror: Evocation II Official Trailer"
     },
     {
-        id: 3,
-        title: "Chipped",
-        expertise: [
-            "SCI-FI | ",
-            "HORROR | ",
-            "SINGLE-PLAYER | ",
-            "PUZZLES"
-        ],
-        industry: "design industry",
-        solution: "I developed a story driven sci-fi game whereby you play as a brain implant recipient that can sync and control a robot, which is also your enemy throughout the game. The game has a very unique puzzle system that involves physics and having to control both the player and the robot inorder to progress the game.",
-        link: "",
-        link_2: "",
-        anchorText: "",
-        anchorText_2: "",
-        date: "10 November 2022",
-        images: [
-            "https://imgdb.net/storage/uploads/e2d71801e61756fa9a9ce87ddcad7be9f03b1efeb48c5e32bc3caae03f43df83.png",
-            "https://imgdb.net/storage/uploads/73e4e19a0f36c6363795587d633df70bf36d6f913876ebfa14ce0f2a801d8d6c.png",
-            "https://imgdb.net/storage/uploads/5b1e1cbac8f202c2f863cd4ffd47a388ae33ce80a275071520f1d33352a275a1.png",
-            "https://imgdb.net/storage/uploads/d1b3387cc1d6bacc8df0ad96af3cfe1437d54aabfed2c9109d43b61c60e65074.png",
-            "https://imgdb.net/storage/uploads/e47a28d13e88dcd124116c63e1c299d480aaf574b247fd84f066ef51532ff44a.png",
-            "https://imgdb.net/storage/uploads/55ad9a9d5abb49759b8687078a2d75ccad681f7ca424e292aa7846c97bf10b32.png"
-        ],
-        videoLink:"https://www.youtube.com/embed/8l0Hb3j2u_w",
-        videoTitle:"FingerBall Trailer",
-        itchEmbed: "https://itch.io/embed/3088601?border_width=2&bg_color=111111&fg_color=ed7100&link_color=ed7100&border_color=ed7100",
-        itchLink: "https://eeriepassion.itch.io/mayham-mansionefefw",
-        itchTitle: "Mayham Mansion by T3rrifk"
-    },
-    {
-        id: 4,
-        title: "Glo VR Museum",
-        expertise: [
-            "MUSUEM | ",
-            "VR EXPERIENCE| ",
-            "IN-HOUSE | "
-        ],
-        industry: "design industry",
-        solution: "Built a VR museum for Nigeria’s mega telecommunications company Globacom Limited Telecommunications. Users could navigate between different categories such as the History of communication, the company and the founder.",
-        link: "",
-        link_2: "",
-        anchorText: "",
-        anchorText_2: "",
-        date: "10 November 2022",
-        images: [
-            "https://imgdb.net/storage/uploads/e2d71801e61756fa9a9ce87ddcad7be9f03b1efeb48c5e32bc3caae03f43df83.png",
-            "https://imgdb.net/storage/uploads/73e4e19a0f36c6363795587d633df70bf36d6f913876ebfa14ce0f2a801d8d6c.png",
-            "https://imgdb.net/storage/uploads/5b1e1cbac8f202c2f863cd4ffd47a388ae33ce80a275071520f1d33352a275a1.png",
-            "https://imgdb.net/storage/uploads/d1b3387cc1d6bacc8df0ad96af3cfe1437d54aabfed2c9109d43b61c60e65074.png",
-            "https://imgdb.net/storage/uploads/e47a28d13e88dcd124116c63e1c299d480aaf574b247fd84f066ef51532ff44a.png",
-            "https://imgdb.net/storage/uploads/55ad9a9d5abb49759b8687078a2d75ccad681f7ca424e292aa7846c97bf10b32.png"
-        ],
-        videoLink:"https://www.youtube.com/embed/IpReU7zPyBE",
-        videoTitle:"Glo video",
-    },
-    {
-        id: 5,
+        id: 2,
         title: "Turn the TV Off",
         expertise: [
-            "HUMOUR| ",
-            "HORROR | ",
+            "HUMOUR",
+            "PC",
+            "INDIE",
+            "HORROR",
             "VIRAL"
         ],
         industry: "design industry",
@@ -144,12 +61,98 @@ export const projects = [
         itchTitle: "Mayham Mansion by T3rrifk"
     },
     {
+        id: 3,
+        title: "Glo VR Museum",
+        expertise: [
+            "VR EXPERIENCE",
+            "MUSEUM",
+            "TELECOMMUNICATIONS"
+        ],
+        industry: "design industry",
+        solution: "Built a VR museum for Nigeria’s mega telecommunications company Globacom Limited Telecommunications. Users could navigate between different categories such as the History of communication, the company and the founder.",
+        link: "",
+        link_2: "",
+        anchorText: "",
+        anchorText_2: "",
+        date: "10 November 2022",
+        images: [
+            "https://imgdb.net/storage/uploads/e2d71801e61756fa9a9ce87ddcad7be9f03b1efeb48c5e32bc3caae03f43df83.png",
+            "https://imgdb.net/storage/uploads/73e4e19a0f36c6363795587d633df70bf36d6f913876ebfa14ce0f2a801d8d6c.png",
+            "https://imgdb.net/storage/uploads/5b1e1cbac8f202c2f863cd4ffd47a388ae33ce80a275071520f1d33352a275a1.png",
+            "https://imgdb.net/storage/uploads/d1b3387cc1d6bacc8df0ad96af3cfe1437d54aabfed2c9109d43b61c60e65074.png",
+            "https://imgdb.net/storage/uploads/e47a28d13e88dcd124116c63e1c299d480aaf574b247fd84f066ef51532ff44a.png",
+            "https://imgdb.net/storage/uploads/55ad9a9d5abb49759b8687078a2d75ccad681f7ca424e292aa7846c97bf10b32.png"
+        ],
+        videoLink:"https://www.youtube.com/embed/IpReU7zPyBE",
+        videoTitle:"Glo video",
+    },
+    {
+        id: 4,
+        title: "Mayham Mansion",
+        expertise: [
+            "VR EXPERIENCE",
+            "ESCAPE ROOM",
+            "SURVIVAL HORROR GAME",
+            "PUZZLE"
+        ],
+        industry: "design industry",
+        solution: "Mayham Mansion is a VR escape room game where players must escape a mysterious mansion after being captured by an enigmatic figure, all in pursuit of a grand prize. As the Unity Developer in a 2-person team, I was responsible for level design, gameplay design, and storytelling. The game was developed exclusively for the Oculus Quest 2 & 3 and it focuses on immersive puzzles and an atmospheric experience.",
+        link: "",
+        link_2: "",
+        anchorText: "",
+        anchorText_2: "",
+        date: "10 November 2022",
+        images: [
+            "https://imgdb.net/storage/uploads/388c824411351149f484d7b99f8942add599344781dd0ef018d80fc0e3c93c40.jpg",
+            "https://imgdb.net/storage/uploads/38511d7750eb9db9c2a098c34bdb5bba7249139b142fc513b5e8615624d5e512.png",
+            "https://imgdb.net/storage/uploads/339aca548f29cb8806e5c9969078f9f4db6c7b009f325ac9a4d1a8816cbcd4a7.png",
+            "https://imgdb.net/storage/uploads/a19d99f30fa28c697fa879beb8ebdb0da60e1f8ddea77b3bb16a1edc6f6df64b.png",
+            "https://imgdb.net/storage/uploads/54d82555387bede4c2eaf0ac5c3acfed3cf2d51f8b2e19e158404f2622ff165b.png",
+            "https://imgdb.net/storage/uploads/9b9d86a38a69af57878342441d0875effb075c7700ed0e793624278d872819e3.png"
+        ],
+        videoLink:"https://www.youtube.com/embed/IEISZAxPy9U",
+        videoTitle:"Terror: Evocation II Official Trailer",
+        itchEmbed: "https://itch.io/embed/3444867?border_width=2&bg_color=111111&fg_color=ed7100&link_color=ed7100&border_color=ed7100",
+        itchLink: "https://eeriepassion.itch.io/mayham-mansion",
+        itchTitle: "Mayham Mansion by T3rrifk"
+    },
+    {
+        id: 5,
+        title: "Chipped",
+        expertise: [
+            "SCI-FI",
+            "HORROR",
+            "SINGLE-PLAYER",
+            "PUZZLES"
+        ],
+        industry: "design industry",
+        solution: "I developed a story driven sci-fi game whereby you play as a brain implant recipient that can sync and control a robot, which is also your enemy throughout the game. The game has a very unique puzzle system that involves physics and having to control both the player and the robot inorder to progress the game.",
+        link: "",
+        link_2: "",
+        anchorText: "",
+        anchorText_2: "",
+        date: "10 November 2022",
+        images: [
+            "https://imgdb.net/storage/uploads/e2d71801e61756fa9a9ce87ddcad7be9f03b1efeb48c5e32bc3caae03f43df83.png",
+            "https://imgdb.net/storage/uploads/73e4e19a0f36c6363795587d633df70bf36d6f913876ebfa14ce0f2a801d8d6c.png",
+            "https://imgdb.net/storage/uploads/5b1e1cbac8f202c2f863cd4ffd47a388ae33ce80a275071520f1d33352a275a1.png",
+            "https://imgdb.net/storage/uploads/d1b3387cc1d6bacc8df0ad96af3cfe1437d54aabfed2c9109d43b61c60e65074.png",
+            "https://imgdb.net/storage/uploads/e47a28d13e88dcd124116c63e1c299d480aaf574b247fd84f066ef51532ff44a.png",
+            "https://imgdb.net/storage/uploads/55ad9a9d5abb49759b8687078a2d75ccad681f7ca424e292aa7846c97bf10b32.png"
+        ],
+        videoLink:"https://www.youtube.com/embed/8l0Hb3j2u_w",
+        videoTitle:"FingerBall Trailer",
+        itchEmbed: "https://itch.io/embed/3088601?border_width=2&bg_color=111111&fg_color=ed7100&link_color=ed7100&border_color=ed7100",
+        itchLink: "https://eeriepassion.itch.io/mayham-mansionefefw",
+        itchTitle: "Mayham Mansion by T3rrifk"
+    },
+    {
         id: 6,
         title: "FingerBall",
         expertise: [
-            "ARCADE GAME | ",
-            "ONLINE MULTIPLAYER | ",
-            "PLAYSTORE | ",
+            "ARCADE GAME",
+            "ONLINE MULTIPLAYER",
+            "PLAYSTORE",
             "PUBLISHED"
         ],
         industry: "design industry",
@@ -175,9 +178,9 @@ export const projects = [
         id: 7,
         title: "Sheria's World",
         expertise: [
-            "2D | ",
-            "RPG | ",
-            "ADVENTURE | ",
+            "2D",
+            "RPG",
+            "ADVENTURE",
             "PC"
         ],
         industry: "design industry",
@@ -200,9 +203,9 @@ export const projects = [
         id: 8,
         title: "Terror: Evocation II",
         expertise: [
-            "SURIVIVAL HORROR GAME | ",
-            "MOBILE | ",
-            "PLAYSTORE | ",
+            "SURIVIVAL HORROR GAME",
+            "MOBILE",
+            "PLAYSTORE",
             "PUBLISHED"
         ],
         industry: "design industry",
@@ -227,11 +230,11 @@ export const projects = [
         id: 9,
         title: "Confinement",
         expertise: [
-            "HORROR GAME | ",
-            "PUZZLE GAME | ",
-            "PUBLISHED | ",
-            "MOBILE |",
-            "WEB GL"
+            "HORROR GAME",
+            "PUZZLE GAME",
+            "PUBLISHED",
+            "MOBILE",
+            "WEB-GL"
         ],
         industry: "design industry",
         solution: "Confinement is a survival adventure game I developed for SuperByte studios published on Google Play and also built for WebGL. The game is set in a house whereby the player is locked in a house by a strange man. The goal is to solve puzzles while avoiding the strange man in order to successfully escape the house. This game was also covered by several YouTube channels including Vividplays channel, which is quite a massive channel. The video from the mentioned channel is the one shown below",
@@ -253,8 +256,8 @@ export const projects = [
         id: 10,
         title: "Run or Die",
         expertise: [
-            "CASUAL GAME | ",
-            "ENDLESS RUNNER | ",
+            "CASUAL GAME",
+            "ENDLESS RUNNER",
             "MOBILE"
         ],
         industry: "design industry",
