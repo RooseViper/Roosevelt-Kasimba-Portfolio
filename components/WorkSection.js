@@ -9,7 +9,7 @@ const WorkSection = (props) => {
 
     function ProjectLayout({ title, id, expertise, solution, link, link_2, anchorText, anchorText_2, images, videoLink, videoTitle, itchEmbed, itchLink, itchTitle }) {
         return (
-            <div className="project-card bg-gray-900/50 p-6 rounded-xl border border-gray-800 hover:border-orange-500 transition-all duration-300">
+            <div className="project-card bg-black-1000 p-6 rounded-xl border border-gray-800 hover:border-orange-500 transition-all duration-300">
                 <ScrollTrigger onEnter={() => setOnScreen(true)}>
                     {/* Header with Number and Title */}
                     <div className="flex items-start gap-4 mb-4">
@@ -41,7 +41,7 @@ const WorkSection = (props) => {
                                         initial={{ opacity: 0 }}
                                         animate={{ opacity: 1 }}
                                         transition={{ delay: 0.4 + index * 0.1 }}
-                                        className="bg-gray-800 text-orange-400 text-xs px-2 py-1 rounded"
+                                        className="bg-gray-700 text-gray-300 text-xs px-2 py-1 rounded"
                                     >
                                         {item}
                                     </motion.span>
@@ -50,7 +50,7 @@ const WorkSection = (props) => {
                         </div>
                     </div>
 
-                    {/* Video Preview */}
+                    {/* Rest of your component remains exactly the same */}
                     {videoLink && (
                         <motion.div
                             initial={{ opacity: 0 }}
@@ -68,7 +68,6 @@ const WorkSection = (props) => {
                         </motion.div>
                     )}
 
-                    {/* Project Description */}
                     {onScreen && (
                         <motion.p
                             initial={{ y: 20, opacity: 0 }}
@@ -80,7 +79,6 @@ const WorkSection = (props) => {
                         </motion.p>
                     )}
 
-                    {/* Links */}
                     <div className="flex flex-wrap gap-3 mt-auto pt-2">
                         {link && (
                             <motion.a
@@ -106,7 +104,6 @@ const WorkSection = (props) => {
                         )}
                     </div>
 
-                    {/* Itch.io Embed */}
                     {itchEmbed && (
                         <motion.div
                             initial={{ opacity: 0 }}
@@ -128,6 +125,7 @@ const WorkSection = (props) => {
         );
     }
 
+    // Rest of your component remains exactly the same
     function ProjectItem() {
         const projects = props.projects;
 

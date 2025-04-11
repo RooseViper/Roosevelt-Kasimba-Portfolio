@@ -40,6 +40,13 @@ const Header = () => {
     }
 
     function OtherInfo() {
+        const skills = [
+            "Unity", "Unreal Engine", "Phaser", "Multiplayer", 
+            "C#", "JavaScript", "Git", "AWS", "REST APIs", 
+            "CI/CD", "Adobe Photoshop", "Docker", 
+            "ASP.NET Core", "3D Modelling (Unity Pro-Builder)", "FL Studio"
+        ];
+
         return (
             <motion.div
                 initial={{ x: '100', opacity: 0 }}
@@ -47,30 +54,23 @@ const Header = () => {
                 transition={{ delay: 1, type: 'tween', duration: 0.75 }}
                 className="flex flex-col w-full mt-8 md:m-0 md:text-right"
             >
-                <h4 className="uppercase tracking-widest md:text-right font-bold">Skills</h4>
-                <div>
-                    <p>• Unity •</p>
-                    <p>• Unreal Engine •</p>
-                    <p>• Phaser •</p>
-                    <p>• Multiplayer •</p>
-                    <p>• C# •</p>
-                    <p>• JavaScript •</p>
-                    <p>• Git •</p>
-                    <p>• AWS •</p>
-                    <p>• REST APIs •</p>
-                    <p>• CI/CD •</p>
-                    <p>• Adobe Photoshop •</p>
-                    <p>• Docker •</p>
-                    <p>• ASP.NET Core •</p>
-                    <p>• 3D Modelling (Unity Pro-Builder) •</p>
-                    <p>• FL Studio •</p>
+                <h4 className="uppercase tracking-widest md:text-right font-bold mb-4">Skills</h4>
+                <div className="flex flex-wrap gap-2 justify-end">
+                    {skills.map((skill, index) => (
+                        <span 
+                            key={index}
+                            className="bg-gray text-gray-300 text-xs px-3 py-1 rounded-full border border-orange-300 hover:bg-gray-900 transition-colors"
+                        >
+                            {skill}
+                        </span>
+                    ))}
                 </div>
             </motion.div>
         );
     }  
 
     return (
-        <div className="w-full">
+        <div className="w-full mt-16"> {/* Added top margin for spacing */}
             <div className="w-full md:w-9/12 text-center mx-auto">
                 <motion.h1 initial={{ y: '-100', opacity: 0 }}
                     animate={{ y: 0, opacity: 1 }}

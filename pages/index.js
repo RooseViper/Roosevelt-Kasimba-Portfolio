@@ -16,20 +16,23 @@ export default function Home() {
       </Head>
       <main>
         <WorkSection projects={projects}/>
+        <div className="my-14">
         <Header/>
+        </div>       
         <StatsSection/>
         <SectionOne/>
       </main>
 
       <style jsx>{`
         main {
-          padding: 5rem 0;
+          padding: 0rem 0;
           flex: 1;
           display: flex;
           flex-direction: column;
           justify-content: center;
           align-items: center;
         }
+        
         footer {
           width: 100%;
           height: 100px;
