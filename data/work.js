@@ -26,7 +26,7 @@ export const projects = [
             "https://imgdb.net/storage/uploads/54d82555387bede4c2eaf0ac5c3acfed3cf2d51f8b2e19e158404f2622ff165b.png",
             "https://imgdb.net/storage/uploads/9b9d86a38a69af57878342441d0875effb075c7700ed0e793624278d872819e3.png"
         ],
-        videoLink:"https://www.youtube.com/embed/iJw9BC6P-Ik",
+        videoLink:"https://www.youtube.com/embed/U4N9MVSotj0",
         videoTitle:"Terror: Evocation II Official Trailer"
     },
     {
@@ -40,7 +40,7 @@ export const projects = [
             "VIRAL"
         ],
         industry: "design industry",
-        solution: "This is a short horror game I worked on in 2 weeks and is based on famous rapper Kendrick Lamar. I collaborated with a voice actor and music composer. Upon its release on February 10, 2025, the game was widely shared and covered across most social media platforms by different users. The Game Awards winner for Gamer of the year “Caseoh” among many other content creators, managed to play the game on his platform which has since further boosted its popularity. It peaked at number 19 at top popular games on itch.io.",
+        solution: "Short horror game developed in 2 weeks and based on famous rapper Kendrick Lamar. I collaborated with a voice actor and music composer. Released on February 10, 2025, the game was widely shared and covered across most social media platforms by different users. The Game Awards winner for Gamer of the year “Caseoh” among many other content creators, managed to play the game on their platforms which has since further boosted its popularity. It peaked at number 19 on top popular games on itch.io.",
         link: "",
         link_2: "",
         anchorText: "",
@@ -54,7 +54,7 @@ export const projects = [
             "https://imgdb.net/storage/uploads/e47a28d13e88dcd124116c63e1c299d480aaf574b247fd84f066ef51532ff44a.png",
             "https://imgdb.net/storage/uploads/55ad9a9d5abb49759b8687078a2d75ccad681f7ca424e292aa7846c97bf10b32.png"
         ],
-        videoLink:"https://www.youtube.com/embed/JacezyEMnG8",
+        videoLink:"https://www.youtube.com/embed/9-xCTFe01go",
         videoTitle:"FingerBall Trailer",
         itchEmbed: "https://itch.io/embed/3316118?border_width=2&bg_color=111111&fg_color=ed7100&link_color=ed7100&border_color=ed7100",
         itchLink: "https://eeriepassion.itch.io/mayham-mansionefefw",
@@ -69,7 +69,7 @@ export const projects = [
             "TELECOMMUNICATIONS"
         ],
         industry: "design industry",
-        solution: "Built a VR museum for Nigeria’s mega telecommunications company Globacom Limited Telecommunications. Users could navigate between different categories such as the History of communication, the company and the founder.",
+        solution: "Led the development of a VR museum for Nigeria’s mega telecommunications company Globacom Limited Telecommunications. Users could navigate between different categories such as the History of communication, the company and the founder of the company.",
         link: "",
         link_2: "",
         anchorText: "",
@@ -92,11 +92,11 @@ export const projects = [
         expertise: [
             "VR EXPERIENCE",
             "ESCAPE ROOM",
-            "SURVIVAL HORROR GAME",
-            "PUZZLE"
+            "PUZZLE",
+            "SURVIVAL HORROR GAME"
         ],
         industry: "design industry",
-        solution: "Mayham Mansion is a VR escape room game where players must escape a mysterious mansion after being captured by an enigmatic figure, all in pursuit of a grand prize. As the Unity Developer in a 2-person team, I was responsible for level design, gameplay design, and storytelling. The game was developed exclusively for the Oculus Quest 2 & 3 and it focuses on immersive puzzles and an atmospheric experience.",
+        solution: "Led the development of a VR escape room game where players must escape a mysterious mansion after being captured by an enigmatic figure, all in pursuit of a grand prize. As the Unity Developer in a 2-person team, I was responsible for the programming, level design, gameplay design, and storytelling. The game was developed exclusively for the Oculus Quest 2 & 3 and it focuses on immersive puzzles and an atmospheric experience.",
         link: "",
         link_2: "",
         anchorText: "",
