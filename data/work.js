@@ -12,7 +12,7 @@ export const projects = [
             "VIRAL"
         ],
         industry: "design industry",
-        solution: "Unolingo 1 & 2 are horror games based on Duolingo whereby the player has to progress the game by solving language based puzzles. The games have been quite successful amassing over 50k installs on itch.io  and peaked to number 4 and 12. They went viral on YouTube and have accumulated over 6.5 million total views from content creators.",
+        solution: "Unolingo 1 & 2 are horror games based on Duolingo whereby the player has to progress the game by solving language based puzzles. The games have been quite successful amassing over 50k installs on itch.io  and peaked to number 4 and 12. They went viral on YouTube and have accumulated over 6.5 million total views from content creators. ",
         link: "",
         link_2: "",
         anchorText: "",
