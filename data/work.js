@@ -12,10 +12,10 @@ export const projects = [
             "VIRAL"
         ],
         industry: "design industry",
-        solution: "Unolingo is a horror game based on Duolingo whereby the player has to progress the game by solving language based puzzles. I was the sole developer on the project and the game was quite successful, it amassed over 40k installs on itch.io  and peaked to number 4. It also went viral on YouTube at the time and accumulated over 6 million total views from content creators.",
-        link: "https://thecodingsloth.itch.io/unolingo",
+        solution: "Unolingo 1 & 2 are horror games based on Duolingo whereby the player has to progress the game by solving language based puzzles. The games have been quite successful amassing over 50k installs on itch.io  and peaked to number 4 and 12. They went viral on YouTube and have accumulated over 6.5 million total views from content creators.",
+        link: "",
         link_2: "",
-        anchorText: "Download Game",
+        anchorText: "",
         anchorText_2: "",
         date: "10 November 2022",
         images: [
@@ -27,7 +27,10 @@ export const projects = [
             "https://imgdb.net/storage/uploads/9b9d86a38a69af57878342441d0875effb075c7700ed0e793624278d872819e3.png"
         ],
         videoLink:"https://www.youtube.com/embed/U4N9MVSotj0",
-        videoTitle:"Terror: Evocation II Official Trailer"
+        videoTitle:"Unolingo streamers video",
+        itchEmbed: "https://itch.io/embed/3582324?border_width=2&bg_color=111111&fg_color=ed7100&link_color=ed7100&border_color=ed7100",
+        itchLink: "https://t3rrifk.itch.io/unolingo-too",
+        itchTitle: "Mayham Mansion by T3rrifk"
     },
     {
         id: 2,
@@ -57,7 +60,7 @@ export const projects = [
         videoLink:"https://www.youtube.com/embed/9-xCTFe01go",
         videoTitle:"FingerBall Trailer",
         itchEmbed: "https://itch.io/embed/3316118?border_width=2&bg_color=111111&fg_color=ed7100&link_color=ed7100&border_color=ed7100",
-        itchLink: "https://eeriepassion.itch.io/mayham-mansionefefw",
+        itchLink: "https://eeriepassion.itch.io/mayham-mansion",
         itchTitle: "Mayham Mansion by T3rrifk"
     },
     {
