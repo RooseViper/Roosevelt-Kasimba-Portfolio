@@ -91,15 +91,15 @@ export const projects = [
     },
     {
         id: 4,
-        title: "Mayham Mansion",
+        title: "The Masked Vengeance",
         expertise: [
-            "VR EXPERIENCE",
-            "ESCAPE ROOM",
-            "PUZZLE",
-            "SURVIVAL HORROR GAME"
+            "NARRATIVE GAME",
+            "HORROR GAME",
+            "FPS",
+            "THRILLER"
         ],
         industry: "design industry",
-        solution: "Led the development of a VR escape room game where players must escape a mysterious mansion after being captured by an enigmatic figure, all in pursuit of a grand prize. As the Unity Developer in a 2-person team, I was responsible for the programming, level design, gameplay design, and storytelling. The game was developed exclusively for the Oculus Quest 2 & 3 and it focuses on immersive puzzles and an atmospheric experience.",
+        solution: "Collaborated with Black Bon Studios (1.8M+ YouTube subscribers) to develop a narrative-driven horror game based on their Purple Rabbit mascot, featuring gunplay, puzzle-solving, and story integration through cutscenes and collectible notes.",
         link: "",
         link_2: "",
         anchorText: "",
@@ -113,9 +113,9 @@ export const projects = [
             "https://imgdb.net/storage/uploads/54d82555387bede4c2eaf0ac5c3acfed3cf2d51f8b2e19e158404f2622ff165b.png",
             "https://imgdb.net/storage/uploads/9b9d86a38a69af57878342441d0875effb075c7700ed0e793624278d872819e3.png"
         ],
-        videoLink:"https://www.youtube.com/embed/IEISZAxPy9U",
-        videoTitle:"Terror: Evocation II Official Trailer",
-        itchEmbed: "https://itch.io/embed/3444867?border_width=2&bg_color=111111&fg_color=ed7100&link_color=ed7100&border_color=ed7100",
+        videoLink:"https://www.youtube.com/embed/QZafmlo5uVo",
+        videoTitle:"The Masked Vengeance Official Trailer",
+        itchEmbed: "https://store.steampowered.com/widget/4081830/\" frameborder=\"0\" width=\"646\" height=\"190\"",
         itchLink: "https://eeriepassion.itch.io/mayham-mansion",
         itchTitle: "Mayham Mansion by T3rrifk"
     },
@@ -231,19 +231,19 @@ export const projects = [
     },
     {
         id: 9,
-        title: "Confinement",
+        title: "Mayham Mansion",
         expertise: [
-            "HORROR GAME",
-            "PUZZLE GAME",
+            "VR EXPERIENCE",
+            "ESCAPE ROOM",
             "PUBLISHED",
-            "MOBILE",
-            "WEB-GL"
+            "PUZZLE",
+            "SURVIVAL HORROR GAME"
         ],
         industry: "design industry",
-        solution: "Confinement is a survival adventure game I developed for SuperByte studios published on Google Play and also built for WebGL. The game is set in a house whereby the player is locked in a house by a strange man. The goal is to solve puzzles while avoiding the strange man in order to successfully escape the house. This game was also covered by several YouTube channels including Vividplays channel, which is quite a massive channel. The video from the mentioned channel is the one shown below",
-        link: "https://play.google.com/store/apps/details?id=com.SuperByteGames.Confinement",
+        solution: "Led the development of a VR escape room game where players must escape a mysterious mansion after being captured by an enigmatic figure, all in pursuit of a grand prize. As the Unity Developer in a 2-person team, I was responsible for the programming, level design, gameplay design, and storytelling. The game was developed exclusively for the Oculus Quest 2 & 3 and it focuses on immersive puzzles and an atmospheric experience.",
+        link: "",
         link_2: "",
-        anchorText: "Download Game(Google Play)",
+        anchorText: "",
         anchorText_2: "",
         date: "10 November 2022",
         images: [
@@ -252,8 +252,11 @@ export const projects = [
             "https://imgdb.net/storage/uploads/9c5e6d479232e16766645b8e672cebb6c8a51f85b4b834a4b60955bbc2736b00.png",
             "https://imgdb.net/storage/uploads/9de353b2163864ba1096489c83033b858a18afc9e76f89ffa07e861505ed44f9.jpg"
         ],
-        videoLink:"https://www.youtube.com/embed/nFKBKYUuN30",
-        videoTitle:"Confinement Walkthrough",
+        videoLink:"https://www.youtube.com/embed/IEISZAxPy9U",
+        videoTitle:"Mayham Mansion Walkthrough",
+        itchEmbed: "https://itch.io/embed/3444867?border_width=2&bg_color=111111&fg_color=ed7100&link_color=ed7100&border_color=ed7100",
+        itchLink: "https://eeriepassion.itch.io/mayham-mansion",
+        itchTitle: "Mayham Mansion by T3rrifk",
     },
     {
         id: 10,
