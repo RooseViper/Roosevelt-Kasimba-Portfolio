@@ -113,7 +113,7 @@ export const projects = [
             "https://imgdb.net/storage/uploads/54d82555387bede4c2eaf0ac5c3acfed3cf2d51f8b2e19e158404f2622ff165b.png",
             "https://imgdb.net/storage/uploads/9b9d86a38a69af57878342441d0875effb075c7700ed0e793624278d872819e3.png"
         ],
-        videoLink:"https://www.youtube.com/embed/QZafmlo5uVo",
+        videoLink:"https://www.youtube.com/embed/qoxcQY43mB8",
         videoTitle:"The Masked Vengeance Official Trailer",
         itchEmbed: "https://store.steampowered.com/widget/4081830/\" frameborder=\"0\" width=\"646\" height=\"190\"",
         itchLink: "https://eeriepassion.itch.io/mayham-mansion",
