@@ -12,7 +12,7 @@ export const projects = [
             "VIRAL"
         ],
         industry: "design industry",
-        solution: "Unolingo 1 & 2 are horror games based on Duolingo whereby the player has to progress the game by solving language based puzzles. The games have been quite successful amassing over 65k installs on itch.io  and peaked to number 4 and 9. They went viral on YouTube and have accumulated over 10 million total views from content creators. ",
+        solution: "Unolingo 1 & 2 are horror games based on Duolingo whereby the player has to progress the game by solving language based puzzles. The games have been quite successful amassing over 100k installs on itch.io and peaked to number 2 and 4. They went viral on YouTube and have accumulated over 10 million total views from content creators. ",
         link: "",
         link_2: "",
         anchorText: "",
@@ -65,6 +65,36 @@ export const projects = [
     },
     {
         id: 3,
+        title: "The Dreadthorn Therapist",
+        expertise: [
+            "NARRATIVE GAME",
+            "SIMULATOR",
+            "FPS",
+            "STEAM"
+        ],
+        industry: "design industry",
+        solution: "Lead developer of The Dreadthorn Therapist. A job simulator where you play as a Therapist in a spooky town. The game features resource management, room customization, a branching story narrative and client management.",
+        link: "",
+        link_2: "",
+        anchorText: "",
+        anchorText_2: "",
+        date: "10 November 2022",
+        images: [
+            "https://imgdb.net/storage/uploads/388c824411351149f484d7b99f8942add599344781dd0ef018d80fc0e3c93c40.jpg",
+            "https://imgdb.net/storage/uploads/38511d7750eb9db9c2a098c34bdb5bba7249139b142fc513b5e8615624d5e512.png",
+            "https://imgdb.net/storage/uploads/339aca548f29cb8806e5c9969078f9f4db6c7b009f325ac9a4d1a8816cbcd4a7.png",
+            "https://imgdb.net/storage/uploads/a19d99f30fa28c697fa879beb8ebdb0da60e1f8ddea77b3bb16a1edc6f6df64b.png",
+            "https://imgdb.net/storage/uploads/54d82555387bede4c2eaf0ac5c3acfed3cf2d51f8b2e19e158404f2622ff165b.png",
+            "https://imgdb.net/storage/uploads/9b9d86a38a69af57878342441d0875effb075c7700ed0e793624278d872819e3.png"
+        ],
+        videoLink:"https://www.youtube.com/embed/owp-aOiRcYg",
+        videoTitle:"The Dreadthorn Therapist Announcement Trailer",
+        itchEmbed: "https://store.steampowered.com/widget/4291350/\" frameborder=\"0\" width=\"646\" height=\"190\"",
+        itchLink: "https://eeriepassion.itch.io/mayham-mansion",
+        itchTitle: "Mayham Mansion by T3rrifk"
+    },
+    {
+        id: 4,
         title: "Glo VR Museum",
         expertise: [
             "VR EXPERIENCE",
@@ -72,7 +102,7 @@ export const projects = [
             "TELECOMMUNICATIONS"
         ],
         industry: "design industry",
-        solution: "Led the development of a VR museum for Nigeria’s mega telecommunications company Globacom Limited Telecommunications. Users could navigate between different categories such as the History of communication, the company and the founder of the company.",
+        solution: "Led the development of a VR museum for Nigeria’s mega telecommunications company Globacom Limited Telecommunications. Users   navigate between different categories to experience such as the History of communication, the company and the founder of the company.",
         link: "",
         link_2: "",
         anchorText: "",
@@ -90,11 +120,11 @@ export const projects = [
         videoTitle:"Glo video",
     },
     {
-        id: 4,
+        id: 5,
         title: "The Masked Vengeance",
         expertise: [
             "NARRATIVE GAME",
-            "HORROR GAME",
+            "STEAM",
             "FPS",
             "THRILLER"
         ],
@@ -120,7 +150,7 @@ export const projects = [
         itchTitle: "Mayham Mansion by T3rrifk"
     },
     {
-        id: 5,
+        id: 6,
         title: "Chipped",
         expertise: [
             "SCI-FI",
@@ -150,7 +180,7 @@ export const projects = [
         itchTitle: "Mayham Mansion by T3rrifk"
     },
     {
-        id: 6,
+        id: 7,
         title: "FingerBall",
         expertise: [
             "ARCADE GAME",
@@ -178,7 +208,7 @@ export const projects = [
         videoTitle:"FingerBall Trailer",
     },
     {
-        id: 7,
+        id: 8,
         title: "Sheria's World",
         expertise: [
             "2D",
@@ -203,7 +233,7 @@ export const projects = [
         videoTitle:"Sheria's World video",
     },
     {
-        id: 8,
+        id: 9,
         title: "Terror: Evocation II",
         expertise: [
             "SURIVIVAL HORROR GAME",
@@ -230,7 +260,7 @@ export const projects = [
         videoLink:"https://www.youtube.com/embed/12QIjEZmsek"
     },
     {
-        id: 9,
+        id: 10,
         title: "Mayham Mansion",
         expertise: [
             "VR EXPERIENCE",
@@ -257,31 +287,6 @@ export const projects = [
         itchEmbed: "https://itch.io/embed/3444867?border_width=2&bg_color=111111&fg_color=ed7100&link_color=ed7100&border_color=ed7100",
         itchLink: "https://eeriepassion.itch.io/mayham-mansion",
         itchTitle: "Mayham Mansion by T3rrifk",
-    },
-    {
-        id: 10,
-        title: "Run or Die",
-        expertise: [
-            "CASUAL GAME",
-            "ENDLESS RUNNER",
-            "MOBILE"
-        ],
-        industry: "design industry",
-        solution: "Run or Die is a Casual endless runner whereby Players have to swipe left or right to dodge monsters and cars as they come from the front of them. The game also has Unity Ads and In-App purchases.",
-        link: "",
-        link_2: "",
-        anchorText: "",
-        anchorText_2: "",
-        date: "10 November 2022",
-        images: [
-            "https://imgdb.net/storage/uploads/41b875f20c3046ac3655377eb1fc6d0cba1d6ee022a90de2b89e5b8c697439a7.png",
-            "https://imgdb.net/storage/uploads/f8c757d9e5151660fd459fc36f0b5e8ec697cf20dc7996a5973b36a2772be5a8.png",
-            "https://imgdb.net/storage/uploads/45a0aa8b1857a86aae76544598499654f6eaab6a39d21f27eda7d1e60467a2c3.png",
-            "https://imgdb.net/storage/uploads/72a5b78558520ef81a4033c15614f30f3282882e0e27d6e76d4d2b0660bb5dac.png",
-            "https://imgdb.net/storage/uploads/44ea37233a1f75bdf4a8b5d2ad0cf46acab859bed69ec0ace299a3d1a6214d86.png"
-        ],
-        videoLink:"https://www.youtube.com/embed/KQhYcdm4kr0",
-        videoTitle:"From the Darkness",
     }
 ]
 
