@@ -32,7 +32,7 @@ const Header = () => {
                 animate={{ x: 0, opacity: 1 }}
                 transition={{ delay: 1, type: 'tween', duration: .75 }} className="flex flex-col w-full mt-8 md:m-0 md:text-left">
                 <h4 className="uppercase tracking-widest font-bold">About Me</h4>
-                <ReadMore text="My name is Roosevelt Kasimba Mwandira a game developer based in Malawi. My passion for Game/XR development allows me to extend my thoughts into reality. The best part about this is that I get to share these thoughts as immersive experiences that can be experienced by anyone. I'm one of the the eariliest people to make and release games in Malawi, with currently having over 10 years experience.">
+                <ReadMore text="My name is Roosevelt Kasimba Mwandira, a Game Developer based in Malawi. With over 10 years of experience and more than 30 games created, I turn ideas into immersive, interactive experiences. As one of the earliest game developers in Malawi, I’m passionate about building worlds that people can explore, feel, and remember.">
                 </ReadMore>
             </motion.div>}
             </ScrollTrigger>
